@@ -1,10 +1,11 @@
 {% if page.header == NULL and page.header.image_fullwidth == NULL and page.header.pattern == NULL and page.header.background-color == NULL and page.header.title == NULL %}
 
 <div id="masthead-no-image-header">
-	<div class="row">
-		<div class="small-12 columns">
-			<a id="logo" href="{{ '/' | absolute_url }}" title="{{ site.title }} – {{ site.slogan }}">
-				<img src="{{ site.url }}{{ site.baseurl }}/assets/img/{{ site.logo }}" alt="{{ site.title }} – {{ site.slogan }}">
+  <div class="row">
+    <div class="small-12 columns">
+      <a id="logo" href="{{ '/' | absolute_url }}" title="{{ site.title }} – {{ site.slogan }}">
+	<!-- <img src="{{ site.url }}{{ site.baseurl }}/assets/img/{{ site.logo }}" alt="{{ site.title }} – {{ site.slogan }}"> -->
+	{{ site.title }}
 			</a>
 		</div><!-- /.small-12.columns -->
 	</div><!-- /.row -->
@@ -49,13 +50,21 @@
 {% elsif page.header.image_fullwidth %}
 
 <div id="masthead">
-	<div class="row">
-		<div class="small-12 columns">
-			<a id="logo" href="{{ '/' | absolute_url }}" title="{{ site.title }} – {{ site.slogan }}">
-				<img src="{{ site.url }}{{ site.baseurl }}/assets/img/{{ site.logo }}" alt="{{ site.title }} – {{ site.slogan }}">
-			</a>
-		</div><!-- /.small-12.columns -->
-	</div><!-- /.row -->
+  <div class="row">
+    <div class="small-12 columns" style="padding-top: 15px;">
+      <div style="width: 100%;">
+	{{ site.logo_region_top }}
+      </div>
+      <a id="logo" href="{{ '/' | absolute_url }}" title="{{ site.title }} – {{ site.slogan }}">
+	<!-- <img src="{{ site.url }}{{ site.baseurl }}/assets/img/{{ site.logo }}" alt="{{ site.title }} – {{ site.slogan }}"> -->
+	<span style="font-size: 30px; color: white;">{{ site.slogan }}</span>
+      </a>
+      <div style="margin-top: -5px; color: white; text-align: left; width: 70%; font-size: 20px;"> {{ site.date }}, {{ site.location }}</div>
+    </div><!-- /.small-12.columns -->
+    <div style="max-width: 62.5rem; width: 100%; clear: both; position: absolute; bottom: 10px; align: right; padding-right: 5px;">
+      {{ site.logo_region_bot }}
+      </div>
+  </div><!-- /.row -->
 </div><!-- /#masthead -->
 
 {% if page.breadcrumb == true %}

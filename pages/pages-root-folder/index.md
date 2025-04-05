@@ -10,7 +10,7 @@ header:
 widget1:
   title: "Ha Long Bay"
   url: '/'
-  text: 'Ha Long Bay, famous for its emerald waters and towering limestone pillars, is a haven with the most stunning seascapes, a breathtaking natural wonder a UNESCO World Heritage site, with about 2,000 islands and islets scattered across its vast expanse.'
+  text: 'Ha Long Bay, famous for its emerald waters and towering limestone pillars, is a haven with the most stunning seascapes, a breathtaking natural wonder, a UNESCO World Heritage site, with about 2,000 islands and islets scattered across its vast expanse.'
   video: '<a href="https://youtu.be/0K7auiJFbyc" data-reveal-id="videoModal"><img src="/images/hon-chong-mai.jpg" width="302" height="182" alt=""/></a>'
 widget2:
   title: "Important dates"

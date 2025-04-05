@@ -2,12 +2,12 @@
   url: "/"
   side: left
 
-- title: "Organizing Comittee"
-  url: "/comittee/"
+- title: "Organizing Committee"
+  url: "/committee/"
   side: right
 
 - title: "Keynote Speakers"
-  url: "/kenotes/"
+  url: "/keynotes/"
   side: right
 - title: "Submission"
   url: "/submission/"
@@ -15,12 +15,12 @@
   dropdown:
   - title: "Call for Papers"
     url: "/call-for-papers/"
-  - title: "Call for Demos"
-    url: "/call-for-demos/"
-  - title: "Call for Tutorials"
-    url: "/call-for-tutorials/"
-  - title: "Call for Special Session"
-    url: "/call-for-special-session/"
+  # - title: "Call for Demos"
+  #   url: "/call-for-demos/"
+  # - title: "Call for Tutorials"
+  #   url: "/call-for-tutorials/"
+  # - title: "Call for Special Session"
+  #   url: "/call-for-special-session/"
   - title: "Paper Submission"
     url: "/paper-submission/"
   - title: "Paper & Poster Presentation"
@@ -33,20 +33,31 @@
 - title: Registration
   url: "/registration/"
   side: right
-  dropdown:
-  - title: "Student Travel Grand"
-    url: "/student-travel-grand/"
+  # dropdown:
+  # - title: "Student Travel Grand"
+  #   url: "/student-travel-grand/"
 
-- title: "Grand Challenge"
-  url: "/grand-challenge/"
-  side: right
+# - title: "Grand Challenge"
+#   url: "/grand-challenge/"
+#   side: right
 - title: "Sponsors"
   url: "/sponsors/"
   side: right
-  dropdown:
-    - title: "How to become a sponsor"
-      url: "/how-to-become-a-sponsor/"
-      side: right
+  # dropdown:
+  #   - title: "How to become a sponsor"
+  #     url: "/how-to-become-a-sponsor/"
+  #     side: right
 - title: "Practical Information"
   url: "/practical-information/"
   side: right
+  dropdown:
+    - title: "Conference Venue"
+      url: "/conference-venue/"
+    - title: "About Ha Long Bay"
+      url: "/about-halongbay/"
+    - title: "Visa"
+      url: "/visa/"
+    - title: "Travel"
+      url: "/travel/"
+    - title: "Accommodation"
+      url: "/accommodation/"
