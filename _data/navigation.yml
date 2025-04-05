@@ -1,0 +1,52 @@
+- title: "AICAS 2026"
+  url: "/"
+  side: left
+
+- title: "Organizing Comittee"
+  url: "/comittee/"
+  side: right
+
+- title: "Keynote Speakers"
+  url: "/kenotes/"
+  side: right
+- title: "Submission"
+  url: "/submission/"
+  side: right
+  dropdown:
+  - title: "Call for Papers"
+    url: "/call-for-papers/"
+  - title: "Call for Demos"
+    url: "/call-for-demos/"
+  - title: "Call for Tutorials"
+    url: "/call-for-tutorials/"
+  - title: "Call for Special Session"
+    url: "/call-for-special-session/"
+  - title: "Paper Submission"
+    url: "/paper-submission/"
+  - title: "Paper & Poster Presentation"
+    url: "/paper-poster-presentation/"
+
+- title: Program
+  url: "/program/"
+  side: right
+
+- title: Registration
+  url: "/registration/"
+  side: right
+  dropdown:
+  - title: "Student Travel Grand"
+    url: "/student-travel-grand/"
+
+- title: "Grand Challenge"
+  url: "/grand-challenge/"
+  side: right
+- title: "Sponsors"
+  url: "/sponsors/"
+  side: right
+  dropdown:
+    - title: "How to become a sponsor"
+      url: "/how-to-become-a-sponsor/"
+      side: right
+- title: "Practical Information"
+  url: "/practical-information/"
+  side: right
