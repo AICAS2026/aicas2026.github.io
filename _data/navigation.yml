@@ -2,32 +2,34 @@
   url: "/"
   side: left
 
-- title: "Organizing Committee"
-  url: "/committee/"
-  side: right
-
-- title: "Keynote Speakers"
-  url: "/keynotes/"
-  side: right
 - title: "Submission"
   url: "/submission/"
   side: right
   dropdown:
-  - title: "Call for Papers"
-    url: "/call-for-papers/"
-  # - title: "Call for Demos"
-  #   url: "/call-for-demos/"
-  # - title: "Call for Tutorials"
-  #   url: "/call-for-tutorials/"
-  # - title: "Call for Special Session"
-  #   url: "/call-for-special-session/"
-  - title: "Paper Submission"
-    url: "/paper-submission/"
-  - title: "Paper & Poster Presentation"
-    url: "/paper-poster-presentation/"
+    - title: "Call for Papers"
+      url: "/call-for-papers/"
+    # - title: "Call for Demos"
+    #   url: "/call-for-demos/"
+    # - title: "Call for Tutorials"
+    #   url: "/call-for-tutorials/"
+    # - title: "Call for Special Session"
+    #   url: "/call-for-special-session/"
+    - title: "Paper Submission"
+      url: "/paper-submission/"
+    - title: "Paper & Poster Presentation"
+      url: "/paper-poster-presentation/"
 
 - title: Program
   url: "/program/"
+  side: right
+  dropdown:
+    - title: "Keynote Speakers"
+      url: "/keynotes/"
+    - title: "Seasonal School"
+      url: "/seasonal-school/"
+
+- title: "Grand Challenge"
+  url: "/grand-challenge/"
   side: right
 
 - title: Registration
@@ -37,13 +39,12 @@
   # - title: "Student Travel Grand"
   #   url: "/student-travel-grand/"
 
-# - title: "Grand Challenge"
-#   url: "/grand-challenge/"
-#   side: right
 - title: "Sponsors"
   url: "/sponsors/"
   side: right
-  # dropdown:
+  dropdown:
+    - title: "Organizing Committee"
+      url: "/committee/"
   #   - title: "How to become a sponsor"
   #     url: "/how-to-become-a-sponsor/"
   #     side: right
