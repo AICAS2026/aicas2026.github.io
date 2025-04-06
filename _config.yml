@@ -17,7 +17,6 @@ slogan: 'The 8<sup>th</sup> IEEE Intl. Conf. on Artificial Intelligence Circuits
 description: 'The 8<sup>th</sup> IEEE International Conference on Artificial Intelligence Circuits and Systems (AICAS 2026)'
 
 # The credits show up in the includes/_footer.html – It would be nice of you to leave a link to Phlow or Feeling Responsive as a thank you :)
-credits: '<p>This website is based on <a href="http://phlow.github.io/feeling-responsive/">Feeling Responsive</a> by <a href="http://phlow.de/">Phlow</a>.</p>'
 
 # The conference date show up in the includes/_masterhead.html
 date: "September 16-18, 2026"
@@ -60,7 +59,7 @@ logo_region_bot: ""
 #   </a>
 
 
-organized_by: "IEEE CAS Vietnam Chapter & China Chapter"
+organized_by: "IEEE CAS Vietnam Chapter & China Chapters"
 cohosted_by: "VNU Information Technology Institute"
 conf_info: >
   <span>Artificial Intelligence is driving a revolution in information
@@ -73,7 +72,7 @@ conf_info: >
   promote and facilitate state-of-the-art research, innovation, and
   development activities at the frontiers of artificial intelligence
   circuits and systems. AICAS 2026 is organized in collaboration
-  between IEEE CASS Vietnam and IEEE CAST China, fostering innovation
+  between IEEE CASS Vietnam and IEEE CASS China, fostering innovation
   and emerging businesses in one of the highest economic growth
   regions in the world.</span>
 
@@ -108,7 +107,7 @@ conf_info: >
   <li>Emerging computing devices and materials for AI</li>
   <li>Circuits and Systems for neural network-based language modeling</li>
   <li>Hardware/software co-design and design automation for AI systems</li>
-  <li>Neuromorphic and bioinspired circuits, processors, systems and their applications</li>
+  <li>Neuromorphic and bioinspired circuits, processors, systems, and their applications</li>
   <li>Emerging applications: IoT, healthcare, smart factories, environment, robotics, autonomous vehicles, drones, AR/VR, metaverse</li>
   <li>Computer vision algorithms and architectures</li>
   <li>AI for Future Wireless Communications</li>
