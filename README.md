@@ -7,7 +7,7 @@ This is the official website repository for the 8th IEEE International Conferenc
 - **Conference Dates**: September 16-18, 2026
 - **Paper Submission Deadline**: March 22, 2026
 - **Acceptance Notification**: June 18, 2026
-- **Camera Ready Deadline**: July 10, 2026
+- **Camera Ready Deadline**: July 1, 2026
 - **Advanced Registration Deadline**: July 10, 2026
 
 ## Website Development
