@@ -32,17 +32,11 @@ submission_link: "https://edas.info/N33433"
 
 location: "Ha Long Bay, Vietnam"
 
-# logo_region_top: >
-#   <a href="https://ieee.org">
-#   <img src="/images/IEEE.png" style="height: 50px; padding-top: 10px; float: right;"/>
-#   </a>
-logo_region_top: ""
+logo_region_top: >
+  <a href="https://ieee-cas.org">
+  <img src="/images/logo.png" style="height: 100px; padding-top: 10px; float: right;"/>
+  </a>
 logo_region_bot: ""
-# logo_region_bot: >
-#   <a href="https://ieee-cas.org">
-#   <img src="/images/CAS-logo.png" style="height: 50px; float: right; margin-left: 4px; padding: 1px 1px 1px 1px; background: white;"/>
-#   </a>
-
 
 organized_by: "IEEE CASSS, IEEE CAS Vietnam Chapter & China Chapters"
 conf_info: >
