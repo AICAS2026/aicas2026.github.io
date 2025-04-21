@@ -11,7 +11,6 @@ header:
 
 <i>Organized by {{ site.organized_by }} </i> <br/>
 
-<i>Co-Hosted by {{ site.cohosted_by }} </i><br/><br/>
 </center>
 
 
