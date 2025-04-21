@@ -8,19 +8,22 @@
 #                                                 /____/
 #
 # Title of your website
-title: 'AICAS 2026'
+title: 'IEEE AICAS 2026'
 
-# The slogan describes your website and is used on homepage in <title> and other important places
+# The slogan describes your website and is used on the homepage in <title> and other important places
 slogan: 'The 8<sup>th</sup> IEEE Intl. Conf. on Artificial Intelligence Circuits and Systems'
 
-# The description is used on homepage and in the footer to quickly describe your website. Use a maximum of 150 characters for SEO-purposes.
+# The description is used on homepage and in the footer to describe your website quickly. Use a maximum of 150 characters for SEO-purposes.
 description: 'The 8<sup>th</sup> IEEE International Conference on Artificial Intelligence Circuits and Systems (AICAS 2026)'
 
 # The credits show up in the includes/_footer.html – It would be nice of you to leave a link to Phlow or Feeling Responsive as a thank you :)
 
-# The conference date show up in the includes/_masterhead.html
+# The conference date shows up in the includes/_masterhead.html
 date: "September 16-18, 2026"
 submission_date: "March 22, 2026"
+tutorial_proposal_date: "March 1, 2026"
+ss_proposal_date: "March 1, 2026"
+ss_submission_date: "March 22, 2026"
 acceptance_date: "June 18, 2026"
 camera_ready_date: "July 10, 2026"
 advance_reg_date: "July 10, 2026"
@@ -36,26 +39,8 @@ location: "Ha Long Bay, Vietnam"
 logo_region_top: ""
 logo_region_bot: ""
 # logo_region_bot: >
-#   <a href="https://www.ieice.org">
-#   <img src="/images/IEICE.png" style="height: 50px; float: right; margin-left: 4px; padding: 1px 1px 1px 1px; background: white;"/>
-#   </a>
-#   <a href="https://sscs.ieee.org">
-#   <img src="/images/IEEE-SSCS-logo.png" style="height: 50px; float: right; margin-left: 4px; padding: 1px 1px 1px 1px; background: white;"/>
-#   </a>
 #   <a href="https://ieee-cas.org">
 #   <img src="/images/CAS-logo.png" style="height: 50px; float: right; margin-left: 4px; padding: 1px 1px 1px 1px; background: white;"/>
-#   </a>
-#   <a href="https://vnuhcm.edu.vn">
-#   <img src="/images/VNUHCMC.png" style="height: 50px; float: right; margin-left: 5px;"/>
-#   </a>
-#   <a href="https://hcmus.edu.vn">
-#   <img src="/images/HCMUS.png" style="height: 50px; float: right; margin-left: 5px;"/>
-#   </a>
-#   <a href="https://iti.vnu.edu.vn">
-#   <img src="/images/ITI.png" style="height: 50px; float: right; margin-left: 5px;"/>
-#   </a>
-#   <a href="https://vnu.edu.vn">
-#   <img src="/images/Logo-VNU-1995.png" style="height: 50px; float: right; margin-left: 4px; padding: 1px 1px 1px 1px; background: white"/>
 #   </a>
 
 
@@ -94,7 +79,7 @@ conf_info: >
   papers must describe original work not submitted to other journals
   or conferences. Authors are expected to present their papers in
   person at the conference. While the conference proceedings will be
-  submitted to the IEEE Xplore® digital library, the best papers will
+  submitted to the IEEE Xplore® digital library, the selected papers will
   be recommended to the IEEE Transactions on Circuits and Systems for
   AI or IEEE Transaction on VLSI System for a Special Section.</span>
 
