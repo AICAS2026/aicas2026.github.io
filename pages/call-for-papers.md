@@ -9,8 +9,7 @@ header:
 <center><h2><a href="/images/cfp.pdf">{{ site.slogan }} ({{ site.title }})</a></h2>
 <b>{{ site.date }}</b><br/>
 
-<i>Organized by {{ site.organized_by }} </i> <br/>
-
+<i>Organized by {{ site.organized_by }} </i> <br/><br/>
 </center>
 
 
