@@ -6,7 +6,7 @@ header:
     image_fullwidth: "ha-long-bay.jpg"
 ---
 
-<center><h2><a href="/images/cfp.pdf">The {{ site.slogan }} ({{ site.title }})</a></h2>
+<center><h2><a href="/images/cfp.pdf">{{ site.slogan }} ({{ site.title }})</a></h2>
 <b>{{ site.date }}</b><br/>
 
 <i>Organized by {{ site.organized_by }} </i> <br/>
