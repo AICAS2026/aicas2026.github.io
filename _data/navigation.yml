@@ -42,9 +42,20 @@
 - title: "Sponsors"
   url: "/sponsors/"
   side: right
+
+- title: "Committees"
+  url: "/committee/"
+  side: right
   dropdown:
+    - title: "Steering Committee"
+      url: "/steering-committee/"
     - title: "Organizing Committee"
       url: "/committee/"
+    - title: "Technical Program Committee"
+      url: "/tpc/"
+  # dropdown:
+  #   - title: "Organizing Committee"
+  #     url: "/committee/"
   #   - title: "How to become a sponsor"
   #     url: "/how-to-become-a-sponsor/"
   #     side: right
