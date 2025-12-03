@@ -13,6 +13,6 @@ header:
 - Hyuk-Jae Lee, Seoul National University, Korea
 - Mohamad Sawan, Westlake University, China
 - Thanos Stouraitis, Khalifa University, UAE
-- Sylvain SaÃ¯ghi, UniversitÃ© de Bordeaux, France
+- Sylvain Saighi, Université de Bordeaux, France
 - Yongfu Li, Shanghai Jiao Tong University, China
 - Amara Amara, Beihang University, China
