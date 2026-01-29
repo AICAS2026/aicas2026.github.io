@@ -33,7 +33,7 @@ widget3:
 # To change colors see sass/_01_settings_colors.scss
 #
 callforaction:
-  url: https://ieee-cas.org
+  url: https://edas.info/N34921
   text: Submit your paper
   style: alert
 permalink: /index.html

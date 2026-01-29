@@ -28,13 +28,14 @@ header:
 ### Technical Program Chairs
 - Li Du, Nanjing University, China
 - Duy-Hieu Bui, VNU-ITI, Vietnam
+- Xiaoqing Wen, Kyutech, Japan
 - Jun Zhou, UESTC, China
 ### Special Session Chairs
 - Hailong Jiao, Peiking University, China
 - Ngoc-Linh Nguyen, VNU-IS, Vietnam
 ### Tutorial Chairs
 - Yuan Du, Nanjing University, China
-- Duy-Anh Nguyen, UTC, Vietnam
+- Minh-Thuy Le, HUST, Vietnam
 ### Live Demo/Exhibition Chairs
 - Thanh-Toan Dao, UTC, Vietnam
 - Hao Cai, Southeast, China
@@ -44,6 +45,7 @@ header:
 ### Publicity Chairs
 - Manh-Hiep Dao, VNU-ITI, Vietnam
 - Gang Li, Wenzhou University, China
+- Fan Hua, UESTC, China
 ### Industrial Liaison Chairs
 - Hoang-Son Le, VNU-ITI, Vietnam
 - Yanan Sun, SJTU, China
