@@ -15,6 +15,15 @@ header:
 - Duy-Hieu Bui, VNU-ITI, Vietnam
 - Xiaoqing Wen, Kyutech, Japan
 - Jun Zhou, UESTC, China
+
+## International Liaison Co-Chairs
+- Myung Hoon Sunwoo, IEEE CASS President, Steering Committee Chair
+- Helen Li, Duke University, USA
+- Hyuk-Jae Lee, Seoul National University, Korea
+- Mohamad Sawan, Westlake University, China
+- Amara Amara, Beihang University, China
+- Sylvain Saighi, Université de Bordeaux, France
+
 ## Special Session Chairs
 - Hailong Jiao, Peiking University, China
 - Ngoc-Linh Nguyen, VNU-IS, Vietnam
