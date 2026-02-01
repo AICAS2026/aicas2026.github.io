@@ -22,7 +22,7 @@ header:
 - Hyuk-Jae Lee, Seoul National University, Korea
 - Mohamad Sawan, Westlake University, China
 - Amara Amara, Beihang University, China
-- Sylvain Saighi, Université de Bordeaux, France
+- Sylvain Saighi, UniversitÃ© de Bordeaux, France
 
 ## Special Session Chairs
 - Hailong Jiao, Peiking University, China
