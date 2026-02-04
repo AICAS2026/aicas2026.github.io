@@ -53,12 +53,11 @@ header:
 
 ### Publications Chairs
 - Xinfei Guo, SJTU, China
+- Fan Hua, UESTC, China
 - Quang-Kien Trinh, LQDTU
 
 ### Publicity Chairs
 - Manh-Hiep Dao, VNU-ITI, Vietnam
-- Gang Li, Wenzhou University, China
-- Fan Hua, UESTC, China
 
 ### Industrial Liaison Chairs
 - Hoang-Son Le, VNU-ITI, Vietnam
