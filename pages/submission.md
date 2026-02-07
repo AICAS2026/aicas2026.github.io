@@ -28,6 +28,6 @@ submitted, accepted, or published in other conferences or journals.
 
 <div class="row t60 b60">
 	<div class="small-12 text-center columns">
-<a class="button large radius alert" href="https://www.edas.info/N31299">Submit your paper now!</a>
+<a class="button large radius alert" href="https://www.edas.info/N34921">Submit your paper now!</a>
 </div><!-- /.small-12.columns -->
 </div><!-- /.row -->
