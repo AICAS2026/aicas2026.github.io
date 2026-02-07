@@ -31,13 +31,14 @@ header:
 - Xiaoqing Wen, Kyutech, Japan
 - Jun Zhou, UESTC, China
 
-## International Liaison Co-Chairs
+### International Liaison Co-Chairs
 - Myung Hoon Sunwoo, IEEE CASS President, Steering Committee Chair
 - Helen Li, Duke University, USA
 - Hyuk-Jae Lee, Seoul National University, Korea
 - Mohamad Sawan, Westlake University, China
 - Amara Amara, Beihang University, China
 - Sylvain Saighi, Université de Bordeaux, France
+- Yajun Ha, ShanghaiTech University, China
 
 ### Special Session Chairs
 - Hailong Jiao, Peiking University, China

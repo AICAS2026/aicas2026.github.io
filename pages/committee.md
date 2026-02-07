@@ -23,6 +23,7 @@ header:
 - Mohamad Sawan, Westlake University, China
 - Amara Amara, Beihang University, China
 - Sylvain Saighi, Université de Bordeaux, France
+- Yajun Ha, ShanghaiTech University, China
 
 ## Special Session Chairs
 - Hailong Jiao, Peiking University, China
