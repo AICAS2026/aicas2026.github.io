@@ -59,6 +59,7 @@ header:
 
 ### Publicity Chairs
 - Manh-Hiep Dao, VNU-ITI, Vietnam
+- Yuncheng Lu, NTU, Singapore
 
 ### Industrial Liaison Chairs
 - Hoang-Son Le, VNU-ITI, Vietnam
