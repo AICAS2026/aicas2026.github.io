@@ -18,7 +18,7 @@ PDF with the fifth page reserved for references only. The paper format
 should be following [the IEEE conference templates for A4 page
 size](https://www.ieee.org/conferences/publishing/templates.html).
 
-**AICAS is <u>NOT</u> double-blind review this year. Please include author information on your submission.**
+**Please include author information on your submission.**
 
 Submitted manuscripts must describe original work which has not been
 submitted, accepted, or published in other conferences or journals.
