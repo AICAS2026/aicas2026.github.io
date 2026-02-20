@@ -30,12 +30,14 @@ Note that important aspects in evaluating Tutorial proposals include
 the timeliness of the topic, quality/track record of the proposers,
 and expected value added to the overall technical program.
 
-
 If you have any questions or comments, please contact the *IEEE AICAS 2026 Tutorials Co-Chair:*
-
 - Prof. Yuan Du, Nanjing University (yuandu [at] nju.edu.cn)
 - Prof. Minh-Thuy Le, HUST, Vietnam (thuy.leminh [at] hust.edu.vn)
 
 Join us in Ha Long Bay for AICAS 2026 and explore the intersection of
 cutting-edge AI and natural beauty!
 
+## Important Dates
+- Tutorial Proposal Submission Deadline: March 31, 2026.
+- Tutorial Proposal Acceptance Deadline: May 31, 2026.
+- Submission of Final Tutorial Slides: August 31, 2026.
