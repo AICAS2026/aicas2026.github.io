@@ -73,3 +73,5 @@
       url: "/travel/"
     - title: "Accommodation"
       url: "/accommodation/"
+    - title: "IEEE Policies"
+      url: "/policies/"
