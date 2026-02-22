@@ -1,4 +1,4 @@
-﻿---
+---
 layout: page-fullwidth
 title: "Call for Cross-Society Special Sessions"
 permalink: "/call-for-cross-society-special-sessions/"
@@ -8,7 +8,7 @@ header:
 
 <center><h5><a href="/images/cfp-cross-society-special-session.pdf" target="_blank">Call for Cross-Society Special Session (PDF version)</a></h5><br/>
 <a href="https://forms.gle/UwtWtUTufKtKScwp8" target="_blank">Submission link</a>
-<br/> 
+<br/>
 <!-- <img src="/images/cfp-special-session.png"/> --></center>
 <br/>
 The Organizing Committee of AICAS 2026 invites proposals for Cross-Society Special
