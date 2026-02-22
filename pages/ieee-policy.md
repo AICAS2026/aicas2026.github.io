@@ -45,7 +45,7 @@ the sole discretion of the conference organizers. In addition,
 attendees are subject to the [IEEE Code of
 Conduct](https://www.ieee.org/about/corporate/governance/code-of-conduct).
 
-Please contact the [Conference Manager](mailto:hieubd@vnu.edu.vn) if
+Please contact the [Conference Organizers](mailto:aicas2026@outlook.com) if
 you experience, observe, or have knowledge of behavior in violation of
 the Code of Conduct or have any questions about the Code of Conduct
 and Inclusivity & Diversity at IEEE AICAS 2026.
@@ -156,9 +156,8 @@ in an environment that supports diversity and inclusion. Participants
 are expected to adhere to these principles and respect the rights of
 others. IEEE seeks to provide a secure environment at its
 events. Participants should report any behavior inconsistent with the
-principles outlined here, to on [site
-staff](mail:anhntiti@vnu.edu.vn), security or venue personnel, or to
-[eventconduct@ieee.org](mail:eventconduct@ieee.org).
+principles outlined here, to the [Conference Organizers](mailto:aicas2026@outlook.com), security or venue personnel, or to
+[eventconduct@ieee.org](mailto:eventconduct@ieee.org).
 
 ### IEEE Privacy Policy
 At IEEE, we respect your privacy. We want to ensure that you get the
