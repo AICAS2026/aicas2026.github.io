@@ -26,12 +26,26 @@ This competition is primarily aimed at students and researchers from universitie
 - Results Announcement: 2026.06.18
 - AICAS Conference: 2026.09.16
 
-Outstanding teams in each track will receive cash prizes. Additionally, teams will have special opportunities for presentation and networking. The top 10 teams from the preliminary round will be invited to participate in the technical workshop in Shanghai. Excellent design solutions may be invited for publication at the IEEE AICAS conference or in partner journals, providing participants with a platform for academic exchange and showcasing their work.
+Outstanding teams in each track will receive cash prizes. **The top 16 teams** from each track in the preliminary round will advance to the final round. **The top 10 teams** from each track will be invited to participate in the Competition Workshop in Shanghai, with a travel subsidy of 2,000 CNY per team.
+
+Finalists will compete for the following cash awards:
 
 - First Place: USD 1300 or CNY 9100 (1 team per track)
 - Second Place: USD 900 or CNY 6300 (1 team per track)
 - Third Place: USD 650 or CNY 4550 (1 team per track)
 - Excellence Award: USD 100 or CNY 700 (7 teams per track)
+
+Additionally, teams will have special opportunities for presentation and networking. **The top 3 teams** from each track in the final round will be invited to submit their work for publication at the IEEE AICAS conference or in partner journals，providing participants with a platform for academic exchange and showcasing their work.
+
+We are grateful to the following experts who serve on the Organizing Committee of this Grand Challenge:
+- **Zhezhi He, Yongfu Li** -- Shanghai Jiao Tong University
+- **Haozhe Zhu** -- Fudan University
+- **Wei Mao, Bo Li** -- Xidian University
+- **Li Du, Yuan Du** -- Nanjing University
+- **Liang Chang** -- University of Electronic Science and Technology of China
+- **Yuhang Zhang** -- East China Normal University
+- **Yiming Gan** -- Institute of Computing Technology, Chinese Academy of Sciences
+- **Shimeng Qian** -- T-Head (Shanghai) Semiconductor Technology Co., Ltd.
 
 ---
 
