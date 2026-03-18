@@ -5,8 +5,28 @@ permalink: "/sponsors/"
 header:
     image_fullwidth: "ha-long-bay.jpg"
 ---
+<div class="panel radius" markdown="1">
+**Table of Contents**
+{: #toc }
+*  TOC
+{:toc}
+</div>
 
-<center><h2>IEEE AICAS 2026 Sponsorship Opportunities and Packages</h2>
+## Diamond sponsors
+<center>
+<a href="https://www.t-head.cn/" target="_blank" style="text-decoration: none; border: none;"><img src="/images/sponsors/T-head.png" style="height: 150px;"/></a>
+</center>
+
+## Platinum sponsors
+<center>
+<p><a href="https://www.cadence.com/" target="_blank" style="text-decoration: none; border: none;"><img src="/images/sponsors/cadence.jpg" style="padding: 5px 5px 5px 5px; height: 50px;"/></a></p>
+</center>
+<br/>
+<br/>
+
+## How to become an AICAS 2026 sponsor
+
+<center><h3>IEEE AICAS 2026 Sponsorship Opportunities and Packages</h3>
 <h5><a href="/images/AICAS-Sponsorship.pdf" target="_blank">(PDF version)</a></h5>
 </center>
 <br/>
@@ -24,7 +44,8 @@ Co-Chairs:
 - Hao Cai, Southeast, China (hao.cai@seu.edu.cn )
 - Liang Chang, UESTC, China (liangchang@uestc.edu.cn )
 
-## Option 1：Standard Packages
+{:.no_toc}
+### Option 1：Standard Packages 
 
 | **Sponsorship Packages**                                                      | **Exhibitor** | **Gold** | **Platinum** | **Diamond** |
 |-------------------------------------------------------------------------------|---------------|----------|--------------|-------------|
@@ -44,13 +65,15 @@ Co-Chairs:
 | **One-minute company video before plenary**                                   |               |          |              | ☑          |
 | **Access to a meeting room (interviews, hospitality) \- reservation needed**  |               |          |              | ☑          |
 
-## Option 2：Itemized Sponsorship
+{:.no_toc}
+### Option 2：Itemized Sponsorship
 - Tea Break: $500 USD
 - Lunch: $1,000 USD
 - Travel Grant for students: $2,000 USD to $5,000 USD
 - Industrial Pre-doctoral Grant: $2,000 USD to $5,000 USD
 
-## About IEEE Artificial Intelligence Circuits and Systems (AICAS)
+{:.no_toc}
+### About IEEE Artificial Intelligence Circuits and Systems (AICAS)
 
 The Institute of Electrical and Electronics Engineers (IEEE) Circuits
 and Systems (CAS) Society is one of the largest societies in IEEE,
@@ -82,7 +105,8 @@ IEEE Xplore® digital library, the selected papers will be recommended
 to the IEEE Transactions on Circuits and Systems for AI (TCASAI) or
 IEEE Transactions on VLSI Systems (TVLSI) for a Special Section.
 
-## The AICAS 2026 will be held in Ha Long Bay, Vietnam, from 16-18 September 2026.
+{:.no_toc}
+### The AICAS 2026 will be held in Ha Long Bay, Vietnam, from 16-18 September 2026.
 - Theme: "Innovating AI Circuits and Systems for a Smarter Future:
   From Edge to Cloud and Beyond" – focusing on the frontier of
   AI-driven computing paradigms to foster innovation and emerging
@@ -100,7 +124,8 @@ IEEE Transactions on VLSI Systems (TVLSI) for a Special Section.
   neuromorphic systems, hardware/software co-design, and AI-driven
   applications for IoT, autonomous vehicles, and the metaverse.
 
-## Past Conferences
+{:.no_toc}
+### Past Conferences
 
 - [AICAS 2025](https://aicas2025.org/), Bordeaux, France. [Call for Papers](https://aicas2025.org/wp-content/uploads/2024/09/AICAS_2025_call_for_papers.pdf), [Proceedings](https://ieeexplore.ieee.org/xpl/conhome/11172731/proceeding).
 - [AICAS 2024](https://ieee-cas.org/event/conference/2024-ieee-6th-international-conference-artificial-intelligence-circuits-and), Abu Dhabi, UAE. [Call for Papers](https://ieee-cas.org/files/ieeecass/2023-09/AICAS%202024%20CFP%20Sep12.pdf), [Proceedings](https://ieeexplore.ieee.org/xpl/conhome/10595550/proceeding).
