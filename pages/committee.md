@@ -26,8 +26,9 @@ header:
 - Yajun Ha, ShanghaiTech University, China
 
 ## Special Session Chairs
-- Hailong Jiao, Peiking University, China
+- Hailong Jiao, Peking University, China
 - Ngoc-Linh Nguyen, VNU-IS, Vietnam
+- Yuan Bo, Rutgers University, USA
 
 ## Tutorial Chairs
 - Yuan Du, Nanjing University, China
