@@ -16,7 +16,7 @@ widget2:
   title: "Important dates"
   url: '/submission'
   image: Pen-circling-calender-date.jpg
-  text: '<em>Full-paper Submission: <span style="color: red;">April 04, 2026</span></em><br/><em>Notification of acceptance: <span style="color: red;">June 18, 2026</span></em> <br/>	<em>Camera-ready submission: <span style="color: red;">July 10, 2026</span></em><br/>	<em>Advance registration: <span style="color: red;">July 10, 2026</span></em><br/><br/>'
+  text: '<em>Full-paper Submission: <span style="color: red;">April 05, 2026</span></em><br/><em>Notification of acceptance: <span style="color: red;">June 18, 2026</span></em> <br/>	<em>Camera-ready submission: <span style="color: red;">July 10, 2026</span></em><br/>	<em>Advance registration: <span style="color: red;">July 10, 2026</span></em><br/><br/>'
 widget3:
   title: "Visa & Travel"
   url: 'https://www.vietnamairlines.com/nz/en/travel-information/travel-advice/for-flights-to-Vietnam'

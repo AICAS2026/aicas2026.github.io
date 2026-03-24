@@ -17,7 +17,7 @@ header:
 
 ## Important dates
 - ~~Full manuscript submission: March 22, 2026~~
-- Full manuscript submission: April 4, 2026
+- Full manuscript submission: April 05, 2026
 - Notification of acceptance: {{ site.acceptance_date }}
 - Camera-ready submission: {{ site.camera_ready_date }}
 
