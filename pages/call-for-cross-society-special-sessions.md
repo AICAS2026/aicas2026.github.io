@@ -34,7 +34,7 @@ Proposals should include the following information (3 pages max.):
 
 - Special Session Proposal Submission: March 07, 2026
 - Acceptance notification of Special Session Proposal: March 14, 2026
-- Submission Deadline (Regular and Special Sessions): April 05, 2026
+- Submission Deadline (Regular and Special Sessions): April 07, 2026
 - Acceptance Notification: July 01, 2026
 - Submission of Camera-Ready Papers: July 10, 2026
 
