@@ -53,7 +53,7 @@ Primary Track.
 
 ## Important Dates
 
-- Submission Deadline of Live Demonstration Description: March 01, 2026
+- Submission Deadline of Live Demonstration Description: April 05, 2026
 - Acceptance Notification of Live Demonstration: June 18, 2026
 - Final Submission: July 10, 2026
 
