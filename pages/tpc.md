@@ -25,7 +25,6 @@ header:
 
 ### Emerging computing devices and materials for AI
 - Hao Jiang (Chair), Fudan University
-- Hao Jiang(co-chair), Fudan University
 - Peng Lin（co-chair), Zhejiang University
 - Can Li, The University of Hong Kong
 - Zhongqiang Wang, Northeast Normal University
@@ -118,7 +117,7 @@ header:
 
 ### AI Circuits and Systems for Robotics and Automation
 - Chao Wang (Chair）, Huazhong University of Science and Technology
-- Ye LIU, University of Electronic Science and Technology
+- Ye LIU (Co-Chair), University of Electronic Science and Technology
 - Yuanjin ZHENG, Nanyang Technological University, 
 - Youhua SHI, Waseda University
 - Kyuho Jason LEE, Yonsei University
@@ -131,21 +130,21 @@ header:
 
 ### Architecture for AI computing
 - Guangyu Sun (Chair), Peking University
-- 张宸（co-chair）, 上海交大
-- 翁健, KAUST
-- 雷杰, 悉尼科技大学
-- 吴晨, 宁波理工
-- 熊波涛, 大连理工
-- 侯毓敏, 北工大
-- 杜浩宇, 中航自控所
-- 何施茗, 长沙理工
-- 柯晶, 上海交大
-- 雷登云, 广东工业大学
-- 李刚, 温州大学
-- 李家辉, 吉林大学
-- 刘德彬, 郑州大学
-- 刘远, 广东工业大学
-- 武玲娟, 华中农业大学
+- Chen Zhang (Co-Chair), Shanghai Jiao Tong University
+- Jian Weng, King Abdullah University of Science and Technology
+- Jie Lei, University of Technology Sydney
+- Chen Wu, Ningbo Institute of Technology, Zhejiang University
+- Botao Xiong, Dalian University of Technology
+- Yumin Hou, Beijing University of Technology
+- Haoyu Du, AVIC Xi'an Flight Automatic Control Research Institute
+- Shiming He, Changsha University of Science and Technology
+- Jing Ke, Shanghai Jiao Tong University
+- Dengyun Lei, Guangdong University of Technology
+- Gang Li, Wenzhou University
+- Jiahui Li, Jilin University
+- Debin Liu, Zhengzhou University
+- Yuan Liu, Guangdong University of Technology
+- Lingjuan Wu, Huazhong Agricultural University
 
 ### In-Memory Computing
 - Tony Tae-Hyoung Kim (Chair), Nanyang Technological University
