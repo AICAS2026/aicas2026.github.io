@@ -1,5 +1,5 @@
 - tier: "Diamond"
-  logo_width: 220
+  logo_width: 320
   sponsors:
     - name: "T-head"
       url: "https://www.t-head.cn/"
@@ -9,7 +9,7 @@
       logo: "/images/sponsors/RingConn.png"
 
 - tier: "Platinum"
-  logo_width: 140
+  logo_width: 200
   sponsors:
     - name: "Cadence"
       url: "https://www.cadence.com/"
