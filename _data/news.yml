@@ -1,0 +1,15 @@
+- date: "Jun 5, 2026"
+  text: "Paper acceptance notifications will be sent by <strong>June 18, 2026</strong>. Please check your registered email."
+
+- date: "Jun 5, 2026"
+  text: "Camera-ready submission and advance registration deadline: <strong>July 10, 2026</strong>."
+  link: "/registration/"
+  link_text: "See registration page"
+
+- date: "Apr 7, 2026"
+  text: "Full-paper submission is now closed. Thank you to all authors who submitted!"
+
+- date: "Jan 15, 2026"
+  text: "Call for Papers is open. Submit via EDAS."
+  link: "https://edas.info/N34921"
+  link_text: "Submit via EDAS"
