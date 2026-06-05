@@ -9,7 +9,7 @@
       logo: "/images/sponsors/RingConn.png"
 
 - tier: "Platinum"
-  logo_width: 200
+  logo_width: 320
   sponsors:
     - name: "Cadence"
       url: "https://www.cadence.com/"
