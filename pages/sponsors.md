@@ -14,9 +14,9 @@ header:
 
 ## Diamond sponsors
 <center>
-<a href="https://www.t-head.cn/" target="_blank" style="text-decoration: none; border: none;"><img src="/images/sponsors/T-head.png" style="height: 150px;"/></a>
+<a href="https://www.t-head.cn/" target="_blank" style="text-decoration: none; border: none;"><img src="/images/sponsors/T-head.png" style="width: 300px; height: auto;"/></a>
 &nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://www.ringconn.com/" target="_blank" style="text-decoration: none; border: none;"><img src="/images/sponsors/RingConn.png" style="height: 150px;"/></a>
+<a href="https://www.ringconn.com/" target="_blank" style="text-decoration: none; border: none;"><img src="/images/sponsors/RingConn.png" style="width: 300px; height: auto;"/></a>
 </center>
 
 ## Platinum sponsors
