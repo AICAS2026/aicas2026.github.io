@@ -50,3 +50,42 @@ homepage: true
   </div>
   <a class="close-reveal-modal">&#215;</a>
 </div>
+
+<div class="row t60 b20">
+  <div class="small-12 columns">
+    <h2>&#128204; News &amp; Highlights</h2>
+    <ul>
+      <li>[Jun 5, 2026] Paper acceptance notifications will be sent by <strong>June 18, 2026</strong>. Please check your registered email.</li>
+      <li>[Jun 5, 2026] Camera-ready submission and advance registration deadline: <strong>July 10, 2026</strong>. Details on <a href="/registration/">registration page</a>.</li>
+      <li>[Apr 7, 2026] Full-paper submission is now closed. Thank you to all authors who submitted!</li>
+      <li>[Jan 15, 2026] <a href="/call-for-papers/">Call for Papers</a> is open. Submit via <a href="https://edas.info/N34921" target="_blank">EDAS</a>.</li>
+    </ul>
+  </div>
+</div>
+
+<div class="row t20 b60">
+  <div class="small-12 columns">
+    <h2 style="text-align: center;">Our Sponsors</h2>
+
+    <p style="text-align: center; font-size: 1.1em; letter-spacing: 0.05em; color: #555; margin-bottom: 10px;">&#128142; Diamond</p>
+    <div style="text-align: center; margin-bottom: 30px;">
+      <a href="https://www.t-head.cn/" target="_blank" style="text-decoration: none; border: none; display: inline-block; margin: 0 20px; vertical-align: middle;">
+        <img src="/images/sponsors/T-head.png" style="width: 220px; height: auto;"/>
+      </a>
+      <a href="https://www.ringconn.com/" target="_blank" style="text-decoration: none; border: none; display: inline-block; margin: 0 20px; vertical-align: middle;">
+        <img src="/images/sponsors/RingConn.png" style="width: 220px; height: auto;"/>
+      </a>
+    </div>
+
+    <p style="text-align: center; font-size: 1.1em; letter-spacing: 0.05em; color: #555; margin-bottom: 10px;">&#129353; Platinum</p>
+    <div style="text-align: center; margin-bottom: 20px;">
+      <a href="https://www.cadence.com/" target="_blank" style="text-decoration: none; border: none; display: inline-block; margin: 0 20px; vertical-align: middle;">
+        <img src="/images/sponsors/cadence.jpg" style="width: 140px; height: auto;"/>
+      </a>
+    </div>
+
+    <p style="text-align: center; margin-top: 10px;">
+      <a href="/sponsors/" class="button small radius">View all sponsors &amp; become a sponsor</a>
+    </p>
+  </div>
+</div>
