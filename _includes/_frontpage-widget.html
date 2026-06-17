@@ -24,6 +24,6 @@
 	{% endif %}
 	<h2 class="font-size-h3 t10">{{ include.widget.title }}</h2>
 
-	{% if include.widget.text != empty %}<p>{{ include.widget.text }}</p>{% endif %}
+	{% if include.widget.text != empty %}<p>{{ include.widget.text | replace: '!SUBMISSION_DATE!', site.submission_date | replace: '!ACCEPTANCE_DATE!', site.acceptance_date | replace: '!ADVANCE_REG!', site.advance_reg_date | replace: '!CAMERA_READY_DATE!', site.camera_ready_date | replace: '!SITE_DESCRIPTION!', site.description | replace: '!SITE_LOCATION!', site.location}}</p>{% endif %}
 	{% if widget_url != empty %}<p><a class="button tiny radius" href="{{ widget_url }}">{{ site.data.language.more }}</a></p>{% endif %}
 </div>

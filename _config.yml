@@ -8,7 +8,7 @@
 #                                                 /____/
 #
 # Title of your website
-title: 'IEEE AICAS 2026'
+title: "IEEE AICAS 2026"
 
 # The slogan describes your website and is used on the homepage in <title> and other important places
 slogan: 'The 8<sup>th</sup> IEEE Intl. Conf. on Artificial Intelligence Circuits and Systems'
@@ -24,7 +24,7 @@ submission_date: "April 05, 2026"
 tutorial_proposal_date: "April 23, 2026"
 ss_proposal_date: "March 1, 2026"
 ss_submission_date: "April 05, 2026"
-acceptance_date: "June 18, 2026"
+acceptance_date: "<del>June 18</del> <span style=\"color: red;\">June 25</span>, 2026"
 camera_ready_date: "July 10, 2026"
 advance_reg_date: "July 10, 2026"
 
