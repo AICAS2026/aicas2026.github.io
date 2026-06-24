@@ -74,3 +74,4 @@ header:
 ## Award Chairs
 - Xueqing Li, Tsinghua University, China
 - Duc-Hung Le, HCMUS, Vietnam
+- Anh-Tuan Do, A*STAR, Singapore
