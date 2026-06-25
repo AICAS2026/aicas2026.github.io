@@ -5,4 +5,94 @@ permalink: "/registration/"
 header:
     image_fullwidth: "ha-long-bay.jpg"
 ---
-TBD
+
+## Registration Fees
+
+All fees are quoted in US Dollars (USD).
+
+<table>
+  <thead>
+    <tr>
+      <th>Registration Category</th>
+      <th>Membership Type</th>
+      <th>Early Bird Rate<br/>(On/Before July 10, 2026)</th>
+      <th>Regular Rate<br/>(After July 10, 2026)</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td rowspan="3"><strong>Full Registration</strong><br/>(with accepted paper)</td>
+      <td>IEEE CASS Member</td>
+      <td>$600</td>
+      <td>$700</td>
+    </tr>
+    <tr>
+      <td>IEEE Member</td>
+      <td>$650</td>
+      <td>$750</td>
+    </tr>
+    <tr>
+      <td>Non-IEEE Member</td>
+      <td>$700</td>
+      <td>$800</td>
+    </tr>
+    <tr>
+      <td rowspan="9"><strong>Regular Registration</strong><br/>(attendance only)</td>
+      <td>IEEE Member</td>
+      <td>$500</td>
+      <td>$600</td>
+    </tr>
+    <tr>
+      <td>IEEE CASS Member</td>
+      <td>$500</td>
+      <td>$600</td>
+    </tr>
+    <tr>
+      <td>IEEE CASS Member (from Vietnam)</td>
+      <td>$400</td>
+      <td>$500</td>
+    </tr>
+    <tr>
+      <td>IEEE Life Member</td>
+      <td>$350</td>
+      <td>$400</td>
+    </tr>
+    <tr>
+      <td>IEEE Life Member (without Lunch/Banquet)</td>
+      <td>$0</td>
+      <td>$50</td>
+    </tr>
+    <tr>
+      <td>Student</td>
+      <td>$450</td>
+      <td>$500</td>
+    </tr>
+    <tr>
+      <td>IEEE Student Member</td>
+      <td>$400</td>
+      <td>$450</td>
+    </tr>
+    <tr>
+      <td>IEEE CASS Student Member</td>
+      <td>$350</td>
+      <td>$400</td>
+    </tr>
+    <tr>
+      <td>IEEE CASS Student Member (from Vietnam)</td>
+      <td>$250</td>
+      <td>$300</td>
+    </tr>
+  </tbody>
+</table>
+
+- <span style="color: red;"><strong>Author registration deadline: 28 Jul 2026</strong></span>
+- Each Full Registration (non-student) covers up to **two papers**.
+- The cancellation fee is **half of the registration fee**.
+- The full conference registration includes: Proceedings, Technical Sessions, Tutorials, Workshops, Welcome and Farewell Receptions, Gala Dinner, Lunch and Coffee Breaks.
+
+
+## Conference Registration
+
+Registration is handled through EDAS. Please register at:
+
+<center><h3><a href="https://edas.info/N34921">https://edas.info/N34921</a></h3></center>
