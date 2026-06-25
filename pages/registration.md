@@ -39,8 +39,8 @@ All fees are quoted in US Dollars (USD).
     <tr>
       <td rowspan="9"><strong>Regular Registration</strong><br/>(attendance only)</td>
       <td>IEEE Member</td>
-      <td>$500</td>
-      <td>$600</td>
+      <td>$550</td>
+      <td>$650</td>
     </tr>
     <tr>
       <td>IEEE CASS Member</td>
@@ -60,7 +60,7 @@ All fees are quoted in US Dollars (USD).
     <tr>
       <td>IEEE Life Member (without Lunch/Banquet)</td>
       <td>$0</td>
-      <td>$50</td>
+      <td>$0</td>
     </tr>
     <tr>
       <td>Student</td>
@@ -88,7 +88,7 @@ All fees are quoted in US Dollars (USD).
 - <span style="color: red;"><strong>Author registration deadline: 28 Jul 2026</strong></span>
 - Each Full Registration (non-student) covers up to **two papers**.
 - The cancellation fee is **half of the registration fee**.
-- The full conference registration includes: Proceedings, Technical Sessions, Tutorials, Workshops, Welcome and Farewell Receptions, Gala Dinner, Lunch and Coffee Breaks.
+- The full conference registration includes: Proceedings, Technical Sessions, Tutorials, Workshops, Welcome Receptions, Gala Dinner, Lunch and Coffee Breaks.
 
 
 ## Conference Registration
