@@ -58,5 +58,5 @@ In case of urgency, please contact our local chair and/or conference secretariat
 ## Invitation letter
 
 If you need an invitation letter, please send your request to our
-local chairs or our conference secretariat.
+local chairs or our conference secretariats (Mr. The-Anh Nguyen, email: [anhntiti@vnu.edu.vn](mailto:anhntiti@vnu.edu.vn) and Ms. Huyen-Trang Nguyen, email: [tranghn@vnu.edu.vn](mailto:tranghn@vnu.edu.vn)).
 
