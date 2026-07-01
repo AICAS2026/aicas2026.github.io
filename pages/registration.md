@@ -90,6 +90,13 @@ All fees are quoted in US Dollars (USD).
 - The cancellation fee is **half of the registration fee**.
 - The full conference registration includes: Proceedings, Technical Sessions, Tutorials, Workshops, Welcome Receptions, Gala Dinner, Lunch and Coffee Breaks.
 
+**Note**:
+- You should update your EDAS profile to see all the discount options for IEEE/IEEE CASS members.
+- If you are an author, you should do the registration in your paper's page in EDAS. It will automatically link the registration to your paper.
+- If you've already registered, the registration doesn't link to your
+  paper, you can go to your registration by clicking on "Register"
+  menu in EDAS, and click on "Add paper to registration".
+
 
 ## Conference Registration
 
