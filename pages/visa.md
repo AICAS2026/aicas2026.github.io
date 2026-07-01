@@ -5,11 +5,20 @@ permalink: "/visa/"
 header:
     image_fullwidth: "ha-long-bay.jpg"
 ---
+<div class="panel radius" markdown="1">
+**Table of Contents**
+{: #toc }
+*  TOC
+{:toc}
+</div>
+
 Please check with Vietnamese Diplomatic Missions in your country at
 [http://www.vnembassy.net](http://www.vnembassy.net) if an entry visa
 is required for your passport.
 
-### The following categories of people qualify for visa waiver policy:
+## Vietnam visa waiver policy
+
+The following categories of people qualify for visa waiver policy:
 1. Passengers who are allowed entry into Vietnam have a stay duration of
 45 days from the entry date  and are nationals of following countries:<br/>
 - Belarus (Republic)
@@ -43,20 +52,27 @@ to apply for the visa:
   apply for a visa.
 - Scan your passport and send it together with your desired landing
   airport to the conference local chair, Mr. NGUYEN The Anh (email:
-  anhntiti [at] vnu.edu.vn). The conference local chair will request the
-  conference travel agent partner to apply for a visa for you. When
-  the application is approved (normally after 3-5 business days), the
-  chair will inform you of the application number. You do not need to
-  go the Vietnamese Diplomatic Mission, but can use the application
-  number to get the visa stamped at the airport. You will need to pay
-  a fee of 35 USD (10 USD for the service fee and 25 USD for the visa
-  application fee for one-month stay). The visa application fee may
-  vary depending on the length of your stay.
+  [anhntiti [at] vnu.edu.vn](mailto:anhntiti@vnu.edu.vn]) and
+  Ms. NGUYEN Huyen-Trang (email: [tranghn [at]
+  vnu.edu.vn](mailto:tranghn@vnu.edu.vn)).
+- The conference local chair
+  will request the conference travel agent partner to apply for a visa
+  for you. When the application is approved (normally after 3-5
+  business days), the chair will inform you of the application
+  number. You do not need to go the Vietnamese Diplomatic Mission, but
+  can use the application number to get the visa stamped at the
+  airport. The visa application fee may vary depending on the length of
+  your stay.
   
 In case of urgency, please contact our local chair and/or conference secretariat.
 
 ## Invitation letter
 
-If you need an invitation letter, please send your request to our
-local chairs or our conference secretariats (Mr. The-Anh Nguyen, email: [anhntiti@vnu.edu.vn](mailto:anhntiti@vnu.edu.vn) and Ms. Huyen-Trang Nguyen, email: [tranghn@vnu.edu.vn](mailto:tranghn@vnu.edu.vn)).
+If you need an invitation letter urgently, please send your request to
+our local chairs or our conference secretariats (Mr. NGUYEN The-Anh,
+email: [anhntiti [at] vnu.edu.vn](mailto:anhntiti@vnu.edu.vn) and
+Ms. NGUYEN Huyen-Trang, email: [tranghn [at]
+vnu.edu.vn](mailto:tranghn@vnu.edu.vn)).
+
+*Note:* an invitation letter will be issued to all registered participants of the conference after the registration deadline.
 
