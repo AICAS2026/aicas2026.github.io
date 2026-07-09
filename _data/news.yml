@@ -1,5 +1,9 @@
 - date: "July 9, 2026"
   text: "The camera-ready submission deadline is extended to <span style=\"color: red;\">July 20, 2026</span>. The camera-ready submission's format should be <b>A4</b> instead of <b>Letter</b>. You can find <a href=\"https://ieee-org.widen.net/content/ge5anzdecd/original/conference-template-a4.docx\" target=\"_blank\">the A4 word template from IEEE here</a>."
+- date: "Jul 8, 2026"
+  text: "<strong>CASS Student Travel Grant:</strong> IEEE CASS offers travel support for students presenting at AICAS 2026. Application deadline: <strong>July 22, 2026</strong>."
+  link: "/cass-student-travel-grant/"
+  link_text: "See eligibility & apply"
 - date: "Jun 24, 2026"
   text: "<a href=\"/call-for-papers/#important-dates\">Paper acceptance notifications</a> will be sent by <strong><del>June 18</del> <del>June 25</del> <a href=\"/call-for-papers/#important-dates\"><span style=\"color: red;\">June 28</span></a>, 2026</strong>. Please check your registered email."
 
