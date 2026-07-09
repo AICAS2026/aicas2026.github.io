@@ -31,8 +31,8 @@
   dropdown:
     - title: "Keynote Speakers"
       url: "/keynotes/"
-    - title: "Seasonal School"
-      url: "/seasonal-school/"
+    - title: "Tutorials"
+      url: "/tutorials/"
 
 - title: "Grand Challenge"
   url: "/grand-challenge/"
