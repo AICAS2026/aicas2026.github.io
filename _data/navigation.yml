@@ -33,6 +33,10 @@
       url: "/keynotes/"
     - title: "Tutorials"
       url: "/tutorials/"
+    - title: "Program at a Glance"
+      url: "/program-at-a-glance/"
+    - title: "Technical Program"
+      url: "/program/"
 
 - title: "Grand Challenge"
   url: "/grand-challenge/"
