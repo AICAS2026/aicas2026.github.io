@@ -458,19 +458,84 @@ processing, and bionic electronic circuits for autonomous cognitive
 systems. Dr. Zjajo won best paper award at BioDevices’15, LifeTech’19
 and AICAS’23. He is a senior member of IEEE.
 
-<!-- ### Hardware-Assisted Verification for Next-Generation AI Hardware Accelerators -->
-<!-- **Ibrahim Elfadel**<br/> -->
-<!-- *Khalifa University, United Arab Emirates* -->
+### Hardware-Assisted Verification for Next-Generation AI Hardware Accelerators
+**Ibrahim Elfadel**<br/>
+*Khalifa University, United Arab Emirates*
 
-<!-- **Abstract:** -->
+**Abstract:** This tutorial addresses the verification gap created by
+the rapid growth of AI silicon. GPUs, NPUs, domain-specific ASICs, and
+chiplet-based AI systems now combine massive parallel compute fabrics,
+deep memory hierarchies, specialized interconnects, and complex
+software stacks, making traditional RTL simulation insufficient for
+validating designs that may contain tens of billions of
+transistors. The tutorial positions hardware-assisted verification
+(HAV) as essential infrastructure for pre-silicon AI hardware
+development, enabling real workloads to run before tapeout and
+supporting faster validation, debugging, and optimization.
 
-<!-- <img src="/images/sschool/ibrahim_elfadel.jpg" width=150 -->
-<!-- style="float:left;padding: 5px 5px 5px 5px;"/> -->
-<!-- **Biography:** -->
+The tutorial begins with a system-level introduction to AI accelerator
+architectures, including GPUs, NPUs, tensor processing arrays,
+dataflows, HBM, SRAM, NoCs, and chiplet-based systems. It then
+examines AI-specific verification challenges such as design scale,
+workload dependence across CNNs, transformers, and LLMs,
+hardware–software co-design, and non-deterministic debugging
+behavior. We then introduce HAV fundamentals, contrasting emulation,
+FPGA prototyping, and hybrid flows while discussing observability,
+debug, and scalability. The tutorial also compares major industry
+platforms and workflows, including Siemens Véloce, Cadence
+Palladium/Protium, and Synopsys ZeBu/HAPS.
+
+A key tutorial theme is hardware–software co-verification. One
+important aspect is to explore how AI workloads can be executed
+pre-silicon to validate compiler mappings, runtime scheduling,
+numerical correctness, and precision behavior. The tutorial also
+connects verification to performance and energy optimization through
+workload profiling, memory/compute/interconnect bottleneck analysis,
+TOPS/W optimization, and design space exploration. Emerging AI
+hardware technology trends include chiplet-based accelerators, sparse
+and dynamic AI workloads, edge AI, low-power systems, and AI-driven
+CAD and verification.
+
+AI hardware verification technology has moved beyond traditional
+RTL-centered verification toward workload-aware HAV, full-stack AI
+hardware/software co-validation, and scalable methodologies for future
+ultra-large AI accelerators. The most important leaning outcome of
+this tutorial is to equip CAD researchers, EDA developers, AI hardware
+architects, verification engineers, compiler/runtime developers, and
+graduate students with modern verification workflows, while motivating
+new research directions in verification CAD for AI hardware.
+
+
+<img src="/images/sschool/ibrahim_elfadel.jpg" width=150
+style="float:left;padding: 5px 5px 5px 5px;"/>
+**Biography:**
+Dr. Ibrahim (Abe) M. Elfadel is Professor of Computer and Information
+Engineering at Khalifa University in Abu Dhabi, UAE, and
+VP-Initiatives of IEEE CEDA. Before joining academia, he served as a
+Senior Scientist at IBM in Yorktown Heights, where he contributed to
+the research, development, and deployment of CAD tools and
+methodologies for IBM high-end microprocessors. From 2012 to 2019, he
+led three industrially funded Abu Dhabi research centers focused on
+IoT, 3D Integration, and MEMS.
+
+His recognitions include six IBM Invention Achievement Awards, an IBM
+Outstanding Technical Achievement Award, an IBM Research Division
+Award, the IEEE TCAD D. O. Pederson Best Paper Award, the SRC Board of
+Directors Award, the 2022 IFIP Service Award, the 2023 Khalifa
+University Service Excellence Award, and the 2026 IEEE CASS John Choma
+Education Award.
+
+Dr. Elfadel was the General Co-chair of VLSI-SoC 2017, PIERS 2025, and
+BioCAS 2025, and the Technical Program Co-chair of VLSI-SoC 2023,
+AICAS 2023, and BioCAS 2024. He serves on the editorial boards of IEEE
+TCASAI and Elseveir’s Integration, and is the Chair of the IEEE CASS
+Technical Committee on Education and Outreach and the Chair-Elect of
+the IEEE CASS Technical Committee on Machine Learning. He received his
+PhD from MIT in 1993.
+
 
 ### Reconfigurable Accelerator Design for Multi-Precision Floating-Point Computing: From Processing Elements to SME-Oriented Architectures
-**Wei Mao**<br/>
-*Xidian University, China*
+**Wei Mao**<br/> *Xidian University, China*
 
 **Abstract:**
 Reconfigurable Accelerator Design for Multi-Precision
