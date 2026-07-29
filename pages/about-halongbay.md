@@ -12,6 +12,12 @@ header:
 {:toc}
 </div>
 
+
+<span style="font-weight: bold;">Visit [our travel partner’s website](https://lyxuanly.my.canva.site/hanoi-media-travel) to explore their latest special offers: [https://lyxuanly.my.canva.site/hanoi-media-travel](https://lyxuanly.my.canva.site/hanoi-media-travel).</span>
+
+
+<br/>
+
 ![ Jeanine Soares/Shutterstock](https://lp-cms-production.imgix.net/2024-09/shutterstock2475261741.jpg?auto=format,compress&q=72&w=1440&h=810&fit=crop)
 
 "Covering an area of 65,650 ha and including 1,133 islands and islets,
