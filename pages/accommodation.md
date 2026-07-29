@@ -24,6 +24,9 @@ within walking distance of the conference venue.
 <img src="/images/hotels-nearby.png"/>
 </center>
 
+<br/>
+<span style="color: red;">Visit [our travel partner’s website](https://lyxuanly.my.canva.site/hanoi-media-travel) to explore their latest special offers: [https://lyxuanly.my.canva.site/hanoi-media-travel](https://lyxuanly.my.canva.site/hanoi-media-travel).</span>
+
 ### Nearby Hotels
 
 #### Ha Long Plaza Hotel (4-star)
