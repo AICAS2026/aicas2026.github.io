@@ -8,7 +8,7 @@ header:
 
 - Myung Hoon Sunwoo, IEEE CASS President, Steering Committee Chair
 - Yajun Ha, ShanghaiTech University, China
-- Chao-Chin Chang, National Chung Hsing University, Taiwain
+- Chen-Hao Chang, National Chung Hsing University, Taiwan
 - Helen Li, Duke University, USA
 - Hyuk-Jae Lee, Seoul National University, Korea
 - Mohamad Sawan, Westlake University, China
