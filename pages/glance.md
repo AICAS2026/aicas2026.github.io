@@ -817,7 +817,7 @@ header:
   style='font-size:9.0pt;color:#006100'>IEEE Chiplet Workshop 2026:
   Circuits and Systems for Next-Generation AI Computing Session B<br>
   </span></b><span style='font-size:9.0pt;color:#006100'>Venue: Panorama 1<br>
-  Chair: TBD</span></p>
+  Chair: Ahn Tuan Do</span></p>
   </td>
   <td width=291 colspan=2 style='width:218.0pt;border-top:none;border-left:
   none;border-bottom:solid windowtext 1.0pt;border-right:solid black 1.0pt;
