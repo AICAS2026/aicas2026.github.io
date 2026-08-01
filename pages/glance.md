@@ -799,5 +799,90 @@ header:
   style='font-size:9.0pt;color:#3F3F76'>Lunch</span></p>
   </td>
  </tr>
+ <tr style='height:84.0pt'>
+  <td width=69 style='width:52.0pt;border:solid windowtext 1.0pt;border-top:
+  none;background:#C6EFCE;padding:0in 5.4pt 0in 5.4pt;height:84.0pt'>
+  <p class=MsoNormal align=center style='margin-bottom:0in;text-align:center;
+  line-height:normal'><span style='font-size:9.0pt;color:#006100'>1:30 PM -
+  3:10 PM</span></p>
+  </td>
+  <td width=151 style='width:113.0pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  background:#C6EFCE;padding:0in 5.4pt 0in 5.4pt;height:84.0pt'>
+  <p class=MsoNormal style='margin-bottom:0in;line-height:normal'><b><span
+  style='font-size:9.0pt;color:#006100'>TBD</span></b></p>
+  </td>
+  <td width=143 style='width:107.0pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  background:#C6EFCE;padding:0in 5.4pt 0in 5.4pt;height:84.0pt'>
+  <p class=MsoNormal style='margin-bottom:0in;line-height:normal'><b><span
+  style='font-size:9.0pt;color:#006100'>TBD</span></b></p>
+  </td>
+  <td width=123 style='width:92.0pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  background:#C6EFCE;padding:0in 5.4pt 0in 5.4pt;height:84.0pt'>
+  <p class=MsoNormal style='margin-bottom:0in;line-height:normal'><b><span
+  style='font-size:9.0pt;color:#006100'>IEEE Chiplet Workshop 2026:
+  Circuits and Systems for Next-Generation AI Computing<br>
+  Session A<br>
+  </span></b><span style='font-size:9.0pt;color:#006100'>Venue: Diamond 2<br>
+  Chair: Chixiao Chen</span></p>
+  </td>
+  <td width=168 style='width:1.75in;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  background:#C6EFCE;padding:0in 5.4pt 0in 5.4pt;height:84.0pt'>
+  <p class=MsoNormal style='margin-bottom:0in;line-height:normal'><b><span
+  style='font-size:9.0pt;color:#006100'>TBD</span></b></p>
+  </td>
+ </tr>
+ <tr style='height:14.25pt'>
+  <td width=69 nowrap style='width:52.0pt;border:solid windowtext 1.0pt;
+  border-top:none;background:#FFCC99;padding:0in 5.4pt 0in 5.4pt;height:14.25pt'>
+  <p class=MsoNormal align=center style='margin-bottom:0in;text-align:center;
+  line-height:normal'><span style='font-size:9.0pt;color:#3F3F76'>3:10 PM</span></p>
+  </td>
+  <td width=584 colspan=4 style='width:438.0pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid black 1.0pt;
+  background:#FFCC99;padding:0in 5.4pt 0in 5.4pt;height:14.25pt'>
+  <p class=MsoNormal style='margin-bottom:0in;line-height:normal'><span
+  style='font-size:9.0pt;color:#3F3F76'>Tea Break (20 minutes)</span></p>
+  </td>
+ </tr>
+ <tr style='height:84.0pt'>
+  <td width=69 style='width:52.0pt;border:solid windowtext 1.0pt;border-top:
+  none;background:#C6EFCE;padding:0in 5.4pt 0in 5.4pt;height:84.0pt'>
+  <p class=MsoNormal align=center style='margin-bottom:0in;text-align:center;
+  line-height:normal'><span style='font-size:9.0pt;color:#006100'>3:30 PM -
+  5:00 PM</span></p>
+  </td>
+  <td width=151 style='width:113.0pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  background:#C6EFCE;padding:0in 5.4pt 0in 5.4pt;height:84.0pt'>
+  <p class=MsoNormal style='margin-bottom:0in;line-height:normal'><b><span
+  style='font-size:9.0pt;color:#006100'>TBD</span></b></p>
+  </td>
+  <td width=143 style='width:107.0pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  background:#C6EFCE;padding:0in 5.4pt 0in 5.4pt;height:84.0pt'>
+  <p class=MsoNormal style='margin-bottom:0in;line-height:normal'><b><span
+  style='font-size:9.0pt;color:#006100'>TBD</span></b></p>
+  </td>
+  <td width=123 style='width:92.0pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  background:#C6EFCE;padding:0in 5.4pt 0in 5.4pt;height:84.0pt'>
+  <p class=MsoNormal style='margin-bottom:0in;line-height:normal'><b><span
+  style='font-size:9.0pt;color:#006100'>IEEE Chiplet Workshop 2026:
+  Circuits and Systems for Next-Generation AI Computing<br>
+  Session B<br>
+  </span></b><span style='font-size:9.0pt;color:#006100'>Venue: Diamond 2<br>
+  Chair: TBD</span></p>
+  </td>
+  <td width=168 style='width:1.75in;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  background:#C6EFCE;padding:0in 5.4pt 0in 5.4pt;height:84.0pt'>
+  <p class=MsoNormal style='margin-bottom:0in;line-height:normal'><b><span
+  style='font-size:9.0pt;color:#006100'>TBD</span></b></p>
+  </td>
+ </tr>
 </table>
 </center>
