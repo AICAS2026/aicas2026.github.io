@@ -779,9 +779,8 @@ header:
   background:#C6EFCE;padding:0in 5.4pt 0in 5.4pt;height:84.0pt'>
   <p class=MsoNormal style='margin-bottom:0in;line-height:normal'><b><span
   style='font-size:9.0pt;color:#006100'>IEEE Chiplet Workshop 2026:
-  Circuits and Systems for Next-Generation AI Computing<br>
-  Session A<br>
-  </span></b><span style='font-size:9.0pt;color:#006100'>Venue: Diamond 2<br>
+  Circuits and Systems for Next-Generation AI Computing Session A<br>
+  </span></b><span style='font-size:9.0pt;color:#006100'>Venue: Panorama 1<br>
   Chair: Chixiao Chen</span></p>
   </td>
   <td width=291 colspan=2 style='width:218.0pt;border-top:none;border-left:
@@ -816,9 +815,8 @@ header:
   background:#C6EFCE;padding:0in 5.4pt 0in 5.4pt;height:84.0pt'>
   <p class=MsoNormal style='margin-bottom:0in;line-height:normal'><b><span
   style='font-size:9.0pt;color:#006100'>IEEE Chiplet Workshop 2026:
-  Circuits and Systems for Next-Generation AI Computing<br>
-  Session B<br>
-  </span></b><span style='font-size:9.0pt;color:#006100'>Venue: Diamond 2<br>
+  Circuits and Systems for Next-Generation AI Computing Session B<br>
+  </span></b><span style='font-size:9.0pt;color:#006100'>Venue: Panorama 1<br>
   Chair: TBD</span></p>
   </td>
   <td width=291 colspan=2 style='width:218.0pt;border-top:none;border-left:
