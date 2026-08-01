@@ -693,8 +693,8 @@ header:
   line-height:normal'><span style='font-size:9.0pt;color:#006100'>9:00 AM -
   10:30 AM</span></p>
   </td>
-  <td width=151 style='width:113.0pt;border-top:none;border-left:none;
-  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  <td width=293 colspan=2 style='width:220.0pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
   background:#C6EFCE;padding:0in 5.4pt 0in 5.4pt;height:84.0pt'>
   <p class=MsoNormal style='margin-bottom:0in;line-height:normal'><b><span
   style='font-size:9.0pt;color:#006100'>Session #23: Neuromorphic and
@@ -703,29 +703,13 @@ header:
   </span></b><span style='font-size:9.0pt;color:#006100'>Venue: Panorama 1<br>
   Chairs: TBD</span></p>
   </td>
-  <td width=143 style='width:107.0pt;border-top:none;border-left:none;
-  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  <td width=291 colspan=2 style='width:218.0pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid black 1.0pt;
   background:#C6EFCE;padding:0in 5.4pt 0in 5.4pt;height:84.0pt'>
   <p class=MsoNormal style='margin-bottom:0in;line-height:normal'><b><span
   style='font-size:9.0pt;color:#006100'>Session #24: In-Memory Computing II (6
   papers)<br>
   </span></b><span style='font-size:9.0pt;color:#006100'>Venue: Panorama 2<br>
-  Chairs: TBD</span></p>
-  </td>
-  <td width=123 style='width:92.0pt;border-top:none;border-left:none;
-  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  background:#C6EFCE;padding:0in 5.4pt 0in 5.4pt;height:84.0pt'>
-  <p class=MsoNormal style='margin-bottom:0in;line-height:normal'><b><span
-  style='font-size:9.0pt;color:#006100'>Workshop #1<br>
-  </span></b><span style='font-size:9.0pt;color:#006100'>Venue: Diamond 2<br>
-  Chairs: TBD</span></p>
-  </td>
-  <td width=168 style='width:1.75in;border-top:none;border-left:none;
-  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  background:#C6EFCE;padding:0in 5.4pt 0in 5.4pt;height:84.0pt'>
-  <p class=MsoNormal style='margin-bottom:0in;line-height:normal'><b><span
-  style='font-size:9.0pt;color:#006100'>Workshop #2<br>
-  </span></b><span style='font-size:9.0pt;color:#006100'>Venue: Diamond 3<br>
   Chairs: TBD</span></p>
   </td>
  </tr>
@@ -749,8 +733,8 @@ header:
   line-height:normal'><span style='font-size:9.0pt;color:#006100'>10:45 AM -
   12:15 PM</span></p>
   </td>
-  <td width=151 style='width:113.0pt;border-top:none;border-left:none;
-  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  <td width=293 colspan=2 style='width:220.0pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
   background:#C6EFCE;padding:0in 5.4pt 0in 5.4pt;height:96.0pt'>
   <p class=MsoNormal style='margin-bottom:0in;line-height:normal'><b><span
   style='font-size:9.0pt;color:#006100'>Session #25: Neuromorphic and
@@ -759,30 +743,14 @@ header:
   </span></b><span style='font-size:9.0pt;color:#006100'>Venue: Panorama 1<br>
   Chairs: TBD</span></p>
   </td>
-  <td width=143 style='width:107.0pt;border-top:none;border-left:none;
-  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  <td width=291 colspan=2 style='width:218.0pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid black 1.0pt;
   background:#C6EFCE;padding:0in 5.4pt 0in 5.4pt;height:96.0pt'>
   <p class=MsoNormal style='margin-bottom:0in;line-height:normal'><b><span
   style='font-size:9.0pt;color:#006100'>Session #26: Special Session:
   &quot;Compute-in-Memory Co-Design: From Emerging Devices to AI Application
   Optimization&quot; II (6 papers)<br>
   </span></b><span style='font-size:9.0pt;color:#006100'>Venue: Panorama 2<br>
-  Chairs: TBD</span></p>
-  </td>
-  <td width=123 style='width:92.0pt;border-top:none;border-left:none;
-  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  background:#C6EFCE;padding:0in 5.4pt 0in 5.4pt;height:96.0pt'>
-  <p class=MsoNormal style='margin-bottom:0in;line-height:normal'><b><span
-  style='font-size:9.0pt;color:#006100'>Workshop #3<br>
-  </span></b><span style='font-size:9.0pt;color:#006100'>Venue: Diamond 2<br>
-  Chairs: TBD</span></p>
-  </td>
-  <td width=168 style='width:1.75in;border-top:none;border-left:none;
-  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  background:#C6EFCE;padding:0in 5.4pt 0in 5.4pt;height:96.0pt'>
-  <p class=MsoNormal style='margin-bottom:0in;line-height:normal'><b><span
-  style='font-size:9.0pt;color:#006100'>Workshop #4<br>
-  </span></b><span style='font-size:9.0pt;color:#006100'>Venue: Diamond 3<br>
   Chairs: TBD</span></p>
   </td>
  </tr>
@@ -806,20 +774,8 @@ header:
   line-height:normal'><span style='font-size:9.0pt;color:#006100'>1:30 PM -
   3:10 PM</span></p>
   </td>
-  <td width=151 style='width:113.0pt;border-top:none;border-left:none;
-  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  background:#C6EFCE;padding:0in 5.4pt 0in 5.4pt;height:84.0pt'>
-  <p class=MsoNormal style='margin-bottom:0in;line-height:normal'><b><span
-  style='font-size:9.0pt;color:#006100'>TBD</span></b></p>
-  </td>
-  <td width=143 style='width:107.0pt;border-top:none;border-left:none;
-  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  background:#C6EFCE;padding:0in 5.4pt 0in 5.4pt;height:84.0pt'>
-  <p class=MsoNormal style='margin-bottom:0in;line-height:normal'><b><span
-  style='font-size:9.0pt;color:#006100'>TBD</span></b></p>
-  </td>
-  <td width=123 style='width:92.0pt;border-top:none;border-left:none;
-  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  <td width=293 colspan=2 style='width:220.0pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
   background:#C6EFCE;padding:0in 5.4pt 0in 5.4pt;height:84.0pt'>
   <p class=MsoNormal style='margin-bottom:0in;line-height:normal'><b><span
   style='font-size:9.0pt;color:#006100'>IEEE Chiplet Workshop 2026:
@@ -828,8 +784,8 @@ header:
   </span></b><span style='font-size:9.0pt;color:#006100'>Venue: Diamond 2<br>
   Chair: Chixiao Chen</span></p>
   </td>
-  <td width=168 style='width:1.75in;border-top:none;border-left:none;
-  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  <td width=291 colspan=2 style='width:218.0pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid black 1.0pt;
   background:#C6EFCE;padding:0in 5.4pt 0in 5.4pt;height:84.0pt'>
   <p class=MsoNormal style='margin-bottom:0in;line-height:normal'><b><span
   style='font-size:9.0pt;color:#006100'>TBD</span></b></p>
@@ -855,20 +811,8 @@ header:
   line-height:normal'><span style='font-size:9.0pt;color:#006100'>3:30 PM -
   5:00 PM</span></p>
   </td>
-  <td width=151 style='width:113.0pt;border-top:none;border-left:none;
-  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  background:#C6EFCE;padding:0in 5.4pt 0in 5.4pt;height:84.0pt'>
-  <p class=MsoNormal style='margin-bottom:0in;line-height:normal'><b><span
-  style='font-size:9.0pt;color:#006100'>TBD</span></b></p>
-  </td>
-  <td width=143 style='width:107.0pt;border-top:none;border-left:none;
-  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  background:#C6EFCE;padding:0in 5.4pt 0in 5.4pt;height:84.0pt'>
-  <p class=MsoNormal style='margin-bottom:0in;line-height:normal'><b><span
-  style='font-size:9.0pt;color:#006100'>TBD</span></b></p>
-  </td>
-  <td width=123 style='width:92.0pt;border-top:none;border-left:none;
-  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  <td width=293 colspan=2 style='width:220.0pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
   background:#C6EFCE;padding:0in 5.4pt 0in 5.4pt;height:84.0pt'>
   <p class=MsoNormal style='margin-bottom:0in;line-height:normal'><b><span
   style='font-size:9.0pt;color:#006100'>IEEE Chiplet Workshop 2026:
@@ -877,8 +821,8 @@ header:
   </span></b><span style='font-size:9.0pt;color:#006100'>Venue: Diamond 2<br>
   Chair: TBD</span></p>
   </td>
-  <td width=168 style='width:1.75in;border-top:none;border-left:none;
-  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  <td width=291 colspan=2 style='width:218.0pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid black 1.0pt;
   background:#C6EFCE;padding:0in 5.4pt 0in 5.4pt;height:84.0pt'>
   <p class=MsoNormal style='margin-bottom:0in;line-height:normal'><b><span
   style='font-size:9.0pt;color:#006100'>TBD</span></b></p>
