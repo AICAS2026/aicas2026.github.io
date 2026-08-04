@@ -58,6 +58,7 @@ header:
 ## Local Arrangement Chairs
 - Quang-Minh Le, VNU-ITI, Vietnam
 - Liang Chang, UESTC, China
+- Longyang Lin, SUStech, China
 
 ## DEI Chairs
 - Thanh-Loan Pham-Nguyen, HUST, VN
