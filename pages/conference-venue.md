@@ -37,10 +37,7 @@ The conference organizers will provide complimentary shuttle services connecting
 | September 15, 2026 |                  09:00 |                                      12:00 |
 | September 15, 2026 |                  14:00 |                                      17:00 |
 | September 15, 2026 |                  19:00 |                                      22:00 |
-| September 16, 2026 |                  09:00 |                                      12:00 |
-| September 16, 2026 |                  14:00 |                                      17:00 |
-| September 16, 2026 |                  19:00 |                                      22:00 |
-|                    |                        |                                            |
+
 #### Pick-up at VNU Xuan Thuy Campus (No. 144 Xuan Thuy Road, Cau Giay Ward, Hanoi)
 
 | Date               | Depart VNU Xuan Thuy Campus | Estimated arrival at Wyndham Legend Halong |
@@ -48,9 +45,6 @@ The conference organizers will provide complimentary shuttle services connecting
 | September 15, 2026 |                       09:30 |                                      12:00 |
 | September 15, 2026 |                       14:30 |                                      17:00 |
 | September 15, 2026 |                       19:30 |                                      22:00 |
-| September 16, 2026 |                       09:30 |                                      12:00 |
-| September 16, 2026 |                       14:30 |                                      17:00 |
-| September 16, 2026 |                       19:30 |                                      22:00 |
 
 ### Ha Long to Hanoi
 
@@ -59,9 +53,6 @@ Return shuttles will depart from **Wyndham Legend Halong**, stop at **Noi Bai In
 
 | Date               | Depart Wyndham Legend Halong | Estimated arrival at Noi Bai Airport |
 | ------------------ | ---------------------------: | -----------------------------------: |
-| September 17, 2026 |                        08:30 |                                11:00 |
-| September 17, 2026 |                        12:00 |                                14:30 |
-| September 17, 2026 |                        18:00 |                                20:30 |
 | September 18, 2026 |                        08:30 |                                11:00 |
 | September 18, 2026 |                        14:00 |                                16:30 |
 | September 18, 2026 |                        18:00 |                                20:30 |
@@ -70,9 +61,6 @@ Return shuttles will depart from **Wyndham Legend Halong**, stop at **Noi Bai In
 
 | Date               | Depart Wyndham Legend Halong | Estimated arrival at VNU Xuan Thuy Campus |
 |--------------------|-----------------------------:|------------------------------------------:|
-| September 17, 2026 |                        08:30 |                                     11:30 |
-| September 17, 2026 |                        12:00 |                                     15:00 |
-| September 17, 2026 |                        18:00 |                                     21:00 |
 | September 18, 2026 |                        08:30 |                                     11:30 |
 | September 18, 2026 |                        14:00 |                                     17:00 |
 | September 18, 2026 |                        18:00 |                                     21:00 |
