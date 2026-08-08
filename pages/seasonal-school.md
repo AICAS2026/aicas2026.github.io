@@ -17,6 +17,35 @@ header:
 - Location: Vietnam National University, Hanoi (Xuan Thuy Campus)
 - Address: 144 Xuan-Thuy Road, Cau Giay Ward, Hanoi, Vietnam
 
+## IEEE Continuing Education Initiative
+### Earn IEEE Continuing Education Credits at AICAS 2026
+AICAS 2026 invites all attendees, especially students and
+professionals, to participate in eligible tutorials and workshops
+offered through the IEEE Continuing Education initiative. These
+educational activities are designed to enhance the value,
+participation, and quality of the conference learning experience.
+
+By attending an eligible tutorial or workshop and satisfying the
+applicable participation requirements, attendees can receive an
+official IEEE certificate documenting Continuing Education Units
+(CEUs) or Professional Development Hours (PDHs). These recognized
+credentials validate a commitment to continuous learning and can
+strengthen academic and professional profiles.
+
+### Why Participate?
+1. **Recognition and Credibility**<br/>Enhance your professional
+qualifications with IEEE-certified credentials that formally recognize
+your commitment to lifelong learning. Attendees can add these
+qualifications to their academic or professional profiles, increasing
+their credibility and distinction in the field.
+2. **Greater Value from Participation**<br/>
+The Continuing Education initiative adds value beyond the standard conference experience, making eligible tutorials and workshops especially beneficial for students and professionals.
+3. **High-Quality Educational Content**<br/>
+Eligible tutorials and workshops are held to rigorous IEEE standards, supporting high-quality content and a rewarding learning experience.
+4. **Globally Respected IEEE Recognition**<br/>
+An IEEE-branded certificate is a mark of excellence that aligns your professional development with IEEE’s globally respected reputation.
+Whether you want to broaden your expertise, earn recognized continuing education credentials, or connect with peers, AICAS 2026 tutorials and workshops provide a valuable platform for professional development aligned with IEEE Continuing Education standards. Take this opportunity to invest in your future.
+
 ## Sub-Theme #1: High-Speed Interconnect and Clock Circuits for AI Computing Infrastructures
 ### Introduction to High-Speed SerDes Communications
 **Quan Pan**<br/>
@@ -590,3 +619,33 @@ Editor for the IEEE ICAS and a Guest Editor for IEEE TCAS-I. He has
 also served on the organizing or technical program committees of
 several renowned conferences, such as ISCAS, ISICAS, AICAS, BioCAS,
 APCCAS, VLSI-SoC, and CCF DAC.
+
+### AI-Driven EDA: Reshaping Chip Design in the AI era
+**Tran Thuy Vy**<br/>*Cadence Vietnam Site Leader, Senior Application Engineer Manager*
+
+**Abstract:** The semiconductor industry is undergoing rapid AI-driven
+transformation, redefining how chips are designed and built. This talk
+examines that shift through Cadence's two strategic pillars: Design
+for AI — building purpose-built tools and agent-ready design flows to
+enable next-generation AI silicon; and AI for Design — embedding AI
+into the EDA process itself through Cadence AI Super Agents, where AI
+Agents automate the EDA flow itself, from digital implementation to
+formal verification, simulation, and debug. Building on this, the talk
+introduces Cadence's Intelligent System Design vision — the
+convergence of AI Agents, applied across digital, custom design,
+verification, PCB, 3D-IC, and multiphysics. It highlights AI-driven
+EDA as the key trend addressing rising design complexity, shrinking
+time-to-tapeout, and growing performance demands across the
+electronics industry.
+
+<img src="/images/sschool/vy_tran.jpg" width=150
+style="float:left;padding: 5px 5px 5px 5px;"/>
+**Biography:**
+Tran Thuy Vy - Vietnam Site Leader and Senior Application Engineering
+Manager at Cadence Design Systems, with over 20 years of experience in
+IC design and EDA technologies. She has worked on advanced process
+node chip design across multiple engineering roles. Her interests
+include digital implementation, verification, design automation, and
+AI-driven chip design methodologies. She is passionate about advancing
+design methodologies and growing Vietnam's semiconductor ecosystem
+through industry–academia collaboration.
