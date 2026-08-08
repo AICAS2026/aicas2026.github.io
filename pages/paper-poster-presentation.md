@@ -38,7 +38,7 @@ presentation file yourself.
 <!-- Send your slides before September 15, 2025. -->
 
 **The file name must be the following format:**
-"AICAS2026_(Session Name)_(Paper 3-digit ID#)_(Presenter Name).pptx(.doc, docx, pdf)" e.g. AICAS2026_DCAS1_001_Gil Dong Hong.pptx (for slide) and AICAS2026_DCAS1_001_Gil Dong Hong.doc(for short-bio.) 
+"AICAS2026_(Session ID)_(Paper ID#)_(Presenter Name).pptx(.doc, docx, pdf)" e.g. AICAS2026_Session1_115234_Gil Dong Hong.pptx (for slide) and AICAS2026_Session1_1152134_Gil Dong Hong.doc(for short-bio.) 
 
 ### Poster Presentation Guidelines
 
