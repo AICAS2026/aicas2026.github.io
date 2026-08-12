@@ -53,17 +53,17 @@ Return shuttles will depart from **Wyndham Legend Halong**, stop at **Noi Bai In
 
 | Date               | Depart Wyndham Legend Halong | Estimated arrival at Noi Bai Airport |
 | ------------------ | ---------------------------: | -----------------------------------: |
-| September 18, 2026 |                        08:30 |                                11:00 |
 | September 18, 2026 |                        14:00 |                                16:30 |
 | September 18, 2026 |                        18:00 |                                20:30 |
+| September 19, 2026 |                        08:30 |                                11:00 |
 
 #### Ha Long to VNU Xuan Thuy Campus (No. 144 Xuan Thuy Road, Cau Giay Ward, Hanoi)
 
 | Date               | Depart Wyndham Legend Halong | Estimated arrival at VNU Xuan Thuy Campus |
 |--------------------|-----------------------------:|------------------------------------------:|
-| September 18, 2026 |                        08:30 |                                     11:30 |
 | September 18, 2026 |                        14:00 |                                     17:00 |
 | September 18, 2026 |                        18:00 |                                     21:00 |
+| September 19, 2026 |                        08:30 |                                     11:30 |
 
 
 ### Locations
