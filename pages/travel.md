@@ -74,4 +74,4 @@ Return shuttles will depart from **Wyndham Legend Halong**, stop at **Noi Bai In
 > **Please note:** Pick-up and arrival times other than the scheduled departure times are estimates. Actual times may vary depending on traffic and road conditions. Passengers taking a return shuttle should select a service scheduled to arrive at Noi Bai International Airport at least three hours before their international flight.
 
 <br/>
-<span style="color: red;">Visit [our travel partner’s website](https://lyxuanly.my.canva.site/hanoi-media-travel) to explore their latest special offers: [https://lyxuanly.my.canva.site/hanoi-media-travel](https://lyxuanly.my.canva.site/hanoi-media-travel).</span>
+<span style="color: red; font-size: 16pt;">Visit [our travel partner’s website](https://lyxuanly.my.canva.site/hanoi-media-travel) to explore their latest special offers: [https://lyxuanly.my.canva.site/hanoi-media-travel](https://lyxuanly.my.canva.site/hanoi-media-travel).</span>
