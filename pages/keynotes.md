@@ -71,3 +71,55 @@ the Hi-Tech category. Also, received honorable doctorate from Rubin
 collage, and his name was included in the list of the most influential
 people in Hi-Tech by both The-Marker and People and Computers
 magazines.
+
+
+## Keynote #2: Learning from Biology - Neuromorphic Techniques for an Intelligent Vision System: Using Obstacle Avoidance as an Example
+**Kea-Tiong (Samuel) Tang**<br/>
+*National Tsing Hua University, Taiwan*
+
+**Abstract:**
+Massive computation, data, and power consumption limits
+the deployment of artificial intelligence on edge devices. Key
+technologies based on neuromorphic computing provide solutions to edge
+computing, which is essential to develop the next generation AI
+chip. In this talk, neuromorphic techniques including model,
+architecture, and sensing will be discussed. These techniques will be
+demonstrated on a microdrone platform for the task of obstacle
+avoidance.
+
+<img src="/images/keynotes/samuel_tang.jpg" width=150 style="float:left;padding: 5px 5px 5px 5px;"/>
+**Biography:**
+Dr. Kea-Tiong (Samuel) Tang received the B.S. degree in electrical
+engineering from National Taiwan University, Taiwan in 1996, and
+received the M.S. and Ph.D. degrees in electrical engineering from
+California Institute of Technology, Pasadena, CA, USA, in 1998 and
+2001, respectively.
+
+During 2001–-2006, Dr. Tang was a Senior Electrical Engineer with
+Second Sight Medical Products, Inc., Sylmar, CA, USA. He designed
+mixed-signal ASIC for the Argus II Retinal Prosthesis System, which
+became the first FDA-approved device for retinal prosthesis. Since
+2006, he has joined the Electrical Engineering Faculty at National
+Tsing Hua University, Hsinchu, Taiwan, and is currently a Distingushed
+Professor. His research interests include bio-inspired learning chip,
+miniature electronic system, and biomedical implantable prosthetic
+device. He has actively collaborated with multi-disciplinary
+researchers and has published more than 300 peer-reviewed journal and
+conference papers in these research areas. He is a recipient of
+numerous awards, including Outstanding Young Scholar Award, Wu Ta-You
+Memorial Award, National Innovation Award, Outstanding Electrical
+Engineering Professor Award, and the Outstanding Research Award, NSTC.
+
+Dr. Tang is a member of IEEE CASS, SSCS, EDS, and EMBS. He was the
+Past Chair of IEEE Biomedical and Life Science Circuits Systems
+Technical Committee (BioCAS). He was the Editor-in-Chief of IEEE
+Transactions on Biomedical Circuits and Systems (TBioCAS)
+(2022-2023). He has served as TPC member of ISSCC, IEDM, ASSCC, ISCAS,
+and BioCAS. He was IEEE CAS Chapter Chair of Taipei Section
+(2017-2018). He was the Chair of IEEE Taipei Section (2021-2022). He
+was a Board of Governor (BoG) of CAS Society, serving as
+Representative of Region 10 (2020~2021). He was the Vice President –
+Regional Activities and Membership of IEEE CASS (2022-2025). He is the
+current Vice President – Conferences of IEEE CASS. He was elected for
+Administrative Committee (AdCom) member for 2026-2028. Dr. Tang is a
+Fellow of IEEE.
