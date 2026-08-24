@@ -146,12 +146,12 @@ As the rapid proliferation of smart sensors, edge AI, and Internet-of-Things (Io
   <div class="workshop-person"><strong>Xiaojin Zhao</strong><span>Shenzhen University, China</span></div>
   <div class="workshop-person"><strong>Amine Bermak</strong><span>Hamad Bin Khalifa University, Qatar</span></div>
   <div class="workshop-person"><strong>Wei Tang</strong><span>New Mexico State University, USA</span></div>
+  <div class="workshop-person"><strong>Qing Zhang</strong><span>Shenzhen University, China</span></div>
 </div>
 
 ## Invited Speakers
 
 <div class="workshop-people">
-  <div class="workshop-person"><strong>Qing Zhang</strong><span>Shenzhen University, China</span></div>
   <div class="workshop-person"><strong>Hong Chen</strong><span>Tsinghua University, China</span></div>
   <div class="workshop-person"><strong>Yi (Estelle) Wang</strong><span>AUMOVIO, Singapore</span></div>
   <div class="workshop-person"><strong>Jianbiao Xiao</strong><span>Chip-Artisan Tech. Corp., China</span></div>
