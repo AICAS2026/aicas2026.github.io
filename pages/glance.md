@@ -790,7 +790,8 @@ header:
   style='font-size:9.0pt;color:#006100'>IEEE AICAS 2026 Satellite Workshop:
   S2CAS - Smart Sensor Circuit and Intelligent Systems for Emerging
   Applications, Session A<br>
-  </span></b><span style='font-size:9.0pt;color:#006100'>Venue: Panorama 2</span></p>
+  </span></b><span style='font-size:9.0pt;color:#006100'>Venue: Panorama 2<br>
+  Chairs: TBD</span></p>
   </td>
  </tr>
  <tr style='height:14.25pt'>
@@ -829,7 +830,8 @@ header:
   style='font-size:9.0pt;color:#006100'>IEEE AICAS 2026 Satellite Workshop:
   S2CAS - Smart Sensor Circuit and Intelligent Systems for Emerging
   Applications, Session B<br>
-  </span></b><span style='font-size:9.0pt;color:#006100'>Venue: Panorama 2</span></p>
+  </span></b><span style='font-size:9.0pt;color:#006100'>Venue: Panorama 2<br>
+  Chairs: TBD</span></p>
   </td>
  </tr>
 </table>
