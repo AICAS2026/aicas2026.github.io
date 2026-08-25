@@ -4,13 +4,14 @@
     - name: "T-head"
       url: "https://www.t-head.cn/"
       logo: "/images/sponsors/T-head.png"
-    - name: "RingConn"
-      url: "https://www.ringconn.com/"
-      logo: "/images/sponsors/RingConn.png"
 
 - tier: "Platinum"
   logo_width: 320
   sponsors:
+    - name: "Huawei"
+      url: "https://www.huawei.com/"
+      logo: "/images/sponsors/Huawei.png"
+      logo_width: 120
     - name: "Cadence"
       url: "https://www.cadence.com/"
       logo: "/images/sponsors/cadence.jpg"

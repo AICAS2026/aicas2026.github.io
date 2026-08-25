@@ -15,13 +15,13 @@ header:
 ## Diamond sponsors
 <center>
 <a href="https://www.t-head.cn/" target="_blank" style="text-decoration: none; border: none;"><img src="/images/sponsors/T-head.png" style="width: 300px; height: auto;"/></a>
-&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://www.ringconn.com/" target="_blank" style="text-decoration: none; border: none;"><img src="/images/sponsors/RingConn.png" style="width: 300px; height: auto;"/></a>
 </center>
 
 ## Platinum sponsors
 <center>
-<p><a href="https://www.cadence.com/" target="_blank" style="text-decoration: none; border: none;"><img src="/images/sponsors/cadence.jpg" style="padding: 5px 5px 5px 5px; height: 50px;"/></a></p>
+<p><a href="https://www.huawei.com/" target="_blank" style="text-decoration: none; border: none;"><img src="/images/sponsors/Huawei.png" style="padding: 5px 5px 5px 5px; height: 90px;"/></a>
+&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://www.cadence.com/" target="_blank" style="text-decoration: none; border: none;"><img src="/images/sponsors/cadence.jpg" style="padding: 5px 5px 5px 5px; height: 50px;"/></a></p>
 </center>
 <br/>
 <br/>
