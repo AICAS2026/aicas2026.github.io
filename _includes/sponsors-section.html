@@ -8,7 +8,7 @@
     </p>
     <div style="text-align: center; margin-bottom: 10px;">
       {% for sponsor in tier.sponsors %}
-      <a href="{{ sponsor.url }}" target="_blank" style="text-decoration: none; border: none; display: inline-block; margin: 0 20px; vertical-align: middle;">
+      <a href="{{ sponsor.url }}" target="_blank" style="text-decoration: none; border: none; display: inline-block; margin: 0 55px; vertical-align: middle;">
         <img src="{{ sponsor.logo }}" alt="{{ sponsor.name }}" style="width: {{ sponsor.logo_width | default: tier.logo_width }}px; height: auto;"/>
       </a>
       {% endfor %}
