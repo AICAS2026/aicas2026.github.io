@@ -152,7 +152,7 @@ header:
 
 ## Workshop Overview
 
-The 2nd IEEE Chiplet Workshop on Circuits and Systems for Next-Generation AI Computing (CSNAIC) is a satellite event of AICAS 2026, sponsored by the IEEE Circuits and Systems Society (CASS). This year features a dual-venue format: Ha Long Bay, Vietnam on 18 September 2026 (co-located with AICAS 2026), and Shanghai, China on 9 October 2026.
+The 2nd IEEE Chiplet Workshop on Circuits and Systems for Next-Generation AI Computing (CSNAIC) is a chiplet event of AICAS 2026, sponsored by the IEEE Circuits and Systems Society (CASS). This year features a dual-venue format: Ha Long Bay, Vietnam on 18 September 2026 (co-located with AICAS 2026), and Shanghai, China on 9 October 2026.
 
 The workshop brings together researchers and industry experts to discuss emerging challenges and innovative solutions in chiplet-based architectures, advanced circuits and systems, and EDA technologies for next-generation AI computing.
 
@@ -192,7 +192,7 @@ The workshop brings together researchers and industry experts to discuss emergin
     </thead>
     <tbody>
       <tr><td>1:30-1:40 PM</td><td>Opening Remarks</td><td></td></tr>
-      <tr><td>1:40-2:25 PM</td><td>Tulika Mitra, National University of Singapore</td></tr>
+      <tr><td>1:40-2:25 PM</td><td>TBD</td><td>Tulika Mitra, National University of Singapore</td></tr>
       <tr><td>2:25-3:10 PM</td><td>Scalable 3D Compute-in/near-Memory Systems with Reusable Active Interposer</td><td>Chixiao Chen, Fudan University</td></tr>
       <tr><td>3:10-3:25 PM</td><td>Coffee Break</td><td></td></tr>
       <tr><td>3:25-4:10 PM</td><td>Low-Power Wireline/Optical Transceivers for Next-Generation AI Applications</td><td>Quan Pan, Southern University of Science and Technology</td></tr>
