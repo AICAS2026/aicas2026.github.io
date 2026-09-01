@@ -183,12 +183,12 @@ General inquiries: [qzhangszu@szu.edu.cn](mailto:qzhangszu@szu.edu.cn)
 ## Downloads
 
 <div class="workshop-downloads">
-  <a href="/images/workshop/AICAS2026-S2CAS-Worshop-v2.pptx" download>Download Workshop Program (PPTX)</a>
-  <a href="/images/workshop/AICAS2026-S2CAS-Worshop-v2.pdf" download>Download Workshop Poster (PDF)</a>
+  <a href="/images/workshop/AICAS2026-S2CAS-Satellite_Worshop.pptx" download>Download Workshop Program (PPTX)</a>
+  <a href="/images/workshop/AICAS2026-S2CAS-Satellite_Worshop.pdf" download>Download Workshop Poster (PDF)</a>
 </div>
 
 ## Workshop Poster
 
-<a href="/images/workshop/AICAS2026-S2CAS-Worshop-v2.pdf" aria-label="Open the IEEE AICAS 2026 S2CAS workshop poster as a PDF">
-  <img class="workshop-poster" src="/images/workshop/AICAS2026-S2CAS-Workshop-poster.png" alt="IEEE AICAS 2026 S2CAS Satellite Workshop poster">
+<a href="/images/workshop/AICAS2026-S2CAS-Satellite_Worshop.pdf" aria-label="Open the IEEE AICAS 2026 S2CAS workshop poster as a PDF">
+  <img class="workshop-poster" src="/images/workshop/AICAS2026-S2CAS-Satellite_Worshop.png" alt="IEEE AICAS 2026 S2CAS Satellite Workshop poster">
 </a>
