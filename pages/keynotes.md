@@ -123,3 +123,46 @@ Regional Activities and Membership of IEEE CASS (2022-2025). He is the
 current Vice President – Conferences of IEEE CASS. He was elected for
 Administrative Committee (AdCom) member for 2026-2028. Dr. Tang is a
 Fellow of IEEE.
+
+## Keynote #3: From FLOPS to Intelligence per Joule: The Case for Adaptive Dataflow
+**Tulika Mitra**<br/>
+*National University of Singapore, Singapore*
+
+**Abstract:**
+For decades, computing efficiency has been evaluated in terms of FLOPS
+or FLOPS per watt. Emerging AI workloads are forcing a different
+question: how much useful intelligence can be extracted from each
+joule?
+
+In large AI models, sparsity is increasingly necessary to make
+computation and memory tractable during inference. But exploiting
+sparsity is not automatically beneficial: the cost of discovering,
+routing, and orchestrating useful work can rival or exceed the cost of
+the computation itself. This challenge is amplified as low-precision
+formats reduce the cost of arithmetic, shifting the bottlenecks toward
+data movement and control.
+
+In this talk, I will present adaptive dataflow as a foundation for
+efficient AI systems. Dataflow computing offers a natural way to
+expose dependences, exploit locality, and coordinate parallel
+execution. Adaptivity extends this paradigm to sparse, dynamic, and
+token-driven workloads whose useful structure may emerge only at
+runtime. I will argue that the central design question is not simply
+how to make dataflow more flexible, but where adaptivity should be
+introduced, where static structure should be preserved, and what that
+division of labor implies for the systems we build next.
+
+<img src="/images/keynotes/tulika_mitra.jpg" width=150 style="float:left;padding: 5px 5px 5px 5px;"/>
+**Biography:**
+Tulika Mitra is Provost’s Chair Professor of Computer Science, Dean of
+Computing, and Vice Provost (Special Projects) at the National
+University of Singapore. Her research focuses on hardware-software
+co-designed systems that deliver more intelligence with less energy,
+while remaining fast, predictable, and reliable. She works on
+accelerator architectures and compilers, power and thermal management
+of heterogeneous systems, and worst-case execution time analysis of
+real-time systems. Her work has received the ESWEEK Test-of-Time Award
+and multiple Best Paper Awards. She has served as Editor-in-Chief of
+ACM Transactions on Embedded Computing Systems, General Chair and
+Program Chair of ICCAD, General Chair of ESWEEK, and is a recipient of
+the ACM SIGDA Distinguished Service Award.
