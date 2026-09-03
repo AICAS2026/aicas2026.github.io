@@ -21,6 +21,9 @@ header:
 - Xiaoqing Wen, Kyutech, Japan
 - Jun Zhou, UESTC, China
 
+## Session chairs
+- Youngmin Kim, Hongik University, Korea
+
 ## TPC members
 
 ### Emerging computing devices and materials for AI

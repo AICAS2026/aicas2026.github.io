@@ -1944,7 +1944,7 @@ header:
   line-height:normal'><b><span style='font-size:8.0pt;color:#006100'>Session
   #9: Architecture for AI computing I (5 papers)<br>
   Venue: Panorama 1<br>
-  Chairs: TBD</span></b></p>
+  Chairs: Youngmin Kim, Hongik University, Korea</span></b></p>
   </td>
  </tr>
  <tr style='height:14.25pt'>
