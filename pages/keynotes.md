@@ -166,3 +166,36 @@ and multiple Best Paper Awards. She has served as Editor-in-Chief of
 ACM Transactions on Embedded Computing Systems, General Chair and
 Program Chair of ICCAD, General Chair of ESWEEK, and is a recipient of
 the ACM SIGDA Distinguished Service Award.
+
+
+## Keynote #4: From Intelligence to Infrastructure: Building the Global Ecosystem for the Next AI Era
+**Hong-Viet Le**<br/>
+*FPT Smart Cloud, Vietnam*
+
+**Abstract:** 
+AI is shifting from experimental models to
+mission-critical infrastructure powering real-world applications
+across industries. The race is no longer just about algorithms. It is
+about the compute, and increasingly the chips, that power them. This
+keynote shares FPT's perspective and real-world experience on the
+global AI landscape and the strategic choices behind building a
+full-stack AI ecosystem across various pillars of computing
+capabilities, technology, and partnership.
+
+<img src="/images/keynotes/hongviet_le.jpg" width=150 style="float:left;padding: 5px 5px 5px 5px;"/>
+**Biography:**
+For more than 15 years with FPT, Mr. Le Hong Viet has held a crucial
+role in the technology growth of FPT, as well as contributing to the
+expansion of FPT in the international market. He is currently the CEO
+of FPT Smart Cloud, a flagship technology subsidiary of FPT that
+provides a world-class Artificial Intelligence platform and Cloud
+Computing services.  Having pinpointed Cloud Computing and AI to be
+FPT's strategic technology, Mr. Viet and FPT experts are focusing on
+developing 02 core products - FPT Cloud and FPT.AI, throughout three
+layers: applications within the FPT ecosystem, product and service
+packages for the market, and valuable resources for the community.
+Alongside being the CEO of FPT Smart Cloud, Mr. Viet is a prestigious
+advisor and expert in the field of Artificial Intelligence, Big Data,
+and Digital Transformation. He is also a senior advisor at FPT
+Ventures - the start-up investment fund that specializes in
+Technology.
