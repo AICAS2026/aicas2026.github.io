@@ -12,6 +12,11 @@ header:
 {:toc}
 </div>
 
+<br/>
+<center>
+<h3 style="color: red;">The tutorials are free of charge. <a href="https://forms.gle/gwciju95xjnzPGtY8" target="_blank">Please register here</a>.</h3>
+</center>
+
 ## Venue
 - Time: Monday, September 14, 2026 (Full day)
 - Location: Vietnam National University, Hanoi (Xuan Thuy Campus)
