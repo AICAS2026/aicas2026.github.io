@@ -130,7 +130,7 @@ header:
   <h2>S2CAS: Smart Sensor Circuit and Intelligent Systems for Emerging Applications</h2>
   <p class="workshop-meta">
     <span><strong>Date:</strong> Friday, 18 September 2026</span>
-    <span><strong>Time:</strong> 1:30-5:00 PM</span>
+    <span><strong>Time:</strong> 2:00-5:00 PM</span>
     <span><strong>Location:</strong> Ha Long Bay, Vietnam</span>
   </p>
 </div>
@@ -166,12 +166,12 @@ As the rapid proliferation of smart sensors, edge AI, and Internet-of-Things (Io
       <tr><th scope="col">Time</th><th scope="col">Topic</th></tr>
     </thead>
     <tbody>
-      <tr><td>1:30-1:40 PM</td><td>Opening Remarks</td></tr>
-      <tr><td>1:40-2:25 PM</td><td>Neuromorphic Smart Nose-on-a-Chip with On-Chip Learning for Pulmonary Diagnosis</td></tr>
-      <tr><td>2:25-3:10 PM</td><td>Towards Trustworthy In-Vehicle AI Systems: Dynamic Watermarks for Real-Time Intrusion Detection</td></tr>
-      <tr><td>3:10-3:30 PM</td><td>Coffee Break</td></tr>
-      <tr><td>3:30-4:15 PM</td><td>Ultra-Low-Power and High Accuracy AI Voice Control Solution: Co-Optimization of Algorithm, Hardware and Toolchain for Edge AI Devices</td></tr>
-      <tr><td>4:15-5:00 PM</td><td>Approximate Computing Circuit Techniques in Efficient Smart Edge Systems - from Biomedical/Vision Recognition to SAR Imaging</td></tr>
+      <tr><td>2:00-2:10 PM</td><td>Opening Remarks</td></tr>
+      <tr><td>2:10-2:45 PM</td><td>Neuromorphic Smart Nose-on-a-Chip with On-Chip Learning for Pulmonary Diagnosis</td></tr>
+      <tr><td>2:45-3:20 PM</td><td>Towards Trustworthy In-Vehicle AI Systems: Dynamic Watermarks for Real-Time Intrusion Detection</td></tr>
+      <tr><td>3:20-3:50 PM</td><td>Coffee Break</td></tr>
+      <tr><td>3:50-4:25 PM</td><td>Ultra-Low-Power and High Accuracy AI Voice Control Solution: Co-Optimization of Algorithm, Hardware and Toolchain for Edge AI Devices</td></tr>
+      <tr><td>4:25-5:00 PM</td><td>Approximate Computing Circuit Techniques in Efficient Smart Edge Systems - from Biomedical/Vision Recognition to SAR Imaging</td></tr>
     </tbody>
   </table>
 </div>
