@@ -190,5 +190,5 @@ General inquiries: [qzhangszu@szu.edu.cn](mailto:qzhangszu@szu.edu.cn)
 ## Workshop Poster
 
 <a href="/images/workshop/AICAS2026-S2CAS-Satellite_Worshop.pdf" aria-label="Open the IEEE AICAS 2026 S2CAS workshop poster as a PDF">
-  <img class="workshop-poster" src="/images/workshop/AICAS2026-S2CAS-Satellite_Worshop.png" alt="IEEE AICAS 2026 S2CAS Satellite Workshop poster">
+  <img class="workshop-poster" src="/images/workshop/AICAS2026-S2CAS-Satellite_Worshop-39e8d9623140.png" alt="IEEE AICAS 2026 S2CAS Satellite Workshop poster">
 </a>
