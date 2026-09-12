@@ -877,7 +877,7 @@ header:
   mso-fareast-font-family:"Times New Roman";mso-hansi-font-family:Calibri;
   mso-bidi-font-family:Calibri;color:#006100;mso-font-kerning:0pt;mso-ligatures:
   none'>Venue: Diamond 2<br>
-  Chairs: Hua Fan, UEST, China<b><o:p></o:p></b></span></p>
+  Chairs: Hua Fan, UESTC, China<b><o:p></o:p></b></span></p>
   </td>
   <td width=172 style='width:129.0pt;border-top:none;border-left:none;
   border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;

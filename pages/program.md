@@ -4071,7 +4071,7 @@ header:
   mso-bidi-font-family:Calibri;color:#006100;mso-font-kerning:0pt;mso-ligatures:
   none'>Session #11: Emerging computing devices and materials for AI (6 papers)<br>
   Venue: Diamond 2<br>
-  Chairs: Hua Fan, UEST, China<o:p></o:p></span></b></p>
+  Chairs: Hua Fan, UESTC, China<o:p></o:p></span></b></p>
   </td>
  </tr>
  <tr style='mso-yfti-irow:78;height:14.25pt'>
