@@ -43,6 +43,8 @@
       url: "/program-at-a-glance/"
     - title: "Technical Program"
       url: "/program/"
+    - title: "Proceedings"
+      url: "/publication/"
 
 - title: "Grand Challenge"
   url: "/grand-challenge/"
